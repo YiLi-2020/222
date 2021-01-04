@@ -82,4 +82,4 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
  # CSS class.
  css_class = ""
 +++
-* [See Affiliations & Workgroups](experience/).
+* [:arrow_right: See Affiliations :school: & Workgroups :microscope:](experience/).
