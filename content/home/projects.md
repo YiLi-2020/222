@@ -10,6 +10,8 @@ weight = 60  # Order that this section will appear.
 title = "Research"
 subtitle = "Independent works & Cross-disciplinary collaborations"
 
+# CV location
+cv_pdf = "experience/"
 
 [content]
   # Page type to display. E.g. project.
