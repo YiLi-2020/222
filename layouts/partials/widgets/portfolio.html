@@ -11,11 +11,7 @@
 
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <p>
-    <a class="btn btn-outline-primary btn-xs" href="{{ $st.Params.cv_pdf }}">
-      Download Complete CV
-    </a>
-    </p>
+
 
     {{ with $st.Title }}<h1>{{ . | markdownify | emojify }}</h1>{{ end }}
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
@@ -93,6 +89,11 @@
 
       {{ end }}
     </div>
+    <p>
+    <a class="btn btn-outline-primary btn-xs" href="{{ $st.Params.cv_pdf }}">
+      Download Complete CV
+    </a>
+    </p>
 
   </div>
 </div>
