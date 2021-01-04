@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Coursework "
-subtitle = ""
+subtitle = "GPA: 3.90/4.00"
 
 # Showcase personal skills or business features.
 # 
