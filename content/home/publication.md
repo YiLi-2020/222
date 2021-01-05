@@ -11,6 +11,9 @@ weight = 50  # Order that this section will appear.
 title = "Publications"
 subtitle = "Highlights from my most recent research history."
 
+# DV location
+dv_pdf = "thesis/"
+
 # CV location
 cv_pdf = "manuscripts/"
 
