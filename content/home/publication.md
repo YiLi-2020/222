@@ -13,7 +13,7 @@ subtitle = "Highlights from my most recent research history."
 
 
 # CV location
-cv_pdf = “manuscripts/"
+cv_pdf = “experience/"
 
 
 [content]
