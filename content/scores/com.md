@@ -17,20 +17,20 @@ subtitle = "GPA: 3.73 / 4.00"
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "GPA"
-  description = "3.72 of 4.00 (Ugrad)<br/>3.87 of 4.00 (Grad)"
+  name = "Advanced Mathematics I & II"
+  description = "1 yr"
   
 [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
-  name = "TOFEL iBT"
-  description = "118=R30+L30+S28+W30"  
+  name = "Advanced Physics I & II"
+  description = "theory & lab, 1 yr"  
   
 [[feature]]
   icon = "gofore"
   icon_pack = "fab"
-  name = "GRE"
-  description = "337=V167+Q170 (AW3.5)"
+  name = "Fundamentals of computer science"
+  description = "theory & lab, 1 yr"
 
 +++
 
