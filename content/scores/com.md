@@ -31,6 +31,24 @@ subtitle = "GPA: 3.73 / 4.00"
   icon_pack = "fab"
   name = "Intro to computer science"
   description = "theory & lab, 1 term (foci: MATLAB)"
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Inorganic Chemistry"
+  description = "1 term"
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Analytical Chemistry I&II"
+  description = "1 yr"  
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Organic Chemistry I&II"
+  description = "1 yr"    
 
 +++
 
