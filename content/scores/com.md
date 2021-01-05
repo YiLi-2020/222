@@ -59,13 +59,19 @@ subtitle = "GPA: 3.73 / 4.00"
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Biochemistry & Molecular Biology"
+  name = "Anatomy and Physiology"
   description = "theory & lab, 1 term"  
   
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Anatomy and Physiology"
+  name = "Microbiology"
+  description = "theory & lab, 1 term"    
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Biochemistry & Molecular Biology"
   description = "theory & lab, 1 term"  
  
 [[feature]]
