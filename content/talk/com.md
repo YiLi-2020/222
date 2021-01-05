@@ -1,5 +1,5 @@
 ---
-title: "Cocrystallization-like Strategy for the Codelivery of Hydrophobic and Hydrophilic Drugs in a Single Carrier-free Formulation"
+title: "Cocrystallization-like strategy for the codelivery of hydrophobic and hydrophilic drugs in a single carrier-free formulation"
 authors:
 - <u>**Yi Li**</u> 
 - Chao Teng
