@@ -8,9 +8,6 @@ weight = 55  # Order that this section will appear.
 title = "Coursework "
 subtitle = "GPA: 3.90 / 4.00"
 
-# CV location
-cv_pdf = “scores/"
-
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
