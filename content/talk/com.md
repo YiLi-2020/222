@@ -26,7 +26,7 @@ summary: My first project. Spend an memorable summer vacation with 200 mice, adm
 
 tags:
 - Drug Delivery
-featured: false
+featured: true
 
 # links:
 # - name: ""
