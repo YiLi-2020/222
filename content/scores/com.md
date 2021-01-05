@@ -15,8 +15,8 @@ subtitle = "GPA: 3.73 / 4.00"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "graduation-cap"
-  icon_pack = "fas"
+  icon = "scirate"
+  icon_pack = "ai"
   name = "Advanced Mathematics I&II"
   description = "1 yr"
   
@@ -33,7 +33,7 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term (foci: MATLAB)"
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "atom"
   icon_pack = "fas"
   name = "Inorganic Chemistry"
   description = "theory & lab, 1 term"
@@ -45,13 +45,13 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 yr"  
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "hubspot"
   icon_pack = "fas"
   name = "Organic Chemistry I&II"
   description = "theory & lab, 1 yr"
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "temperature-high"
   icon_pack = "fas"
   name = "Physical Chemistry I&II"
   description = "theory & lab, 1 term"  
@@ -63,19 +63,19 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term"  
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "bacteria"
   icon_pack = "fas"
   name = "Microbiology"
   description = "theory & lab, 1 term"    
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "dna"
   icon_pack = "fas"
   name = "Biochemistry & Molecular Biology"
   description = "theory & lab, 1 term"  
  
 [[feature]]
-  icon = "graduation-cap"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Mathematical Statistics and Medical Statistical Analysis"
   description = "1 term"      
@@ -93,7 +93,7 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term"   
 
 [[feature]]
-  icon = "graduation-cap"
+  icon = "pills"
   icon_pack = "fas"
   name = "Pharmaceutics"
   description = "theory & lab, 1 term"  
