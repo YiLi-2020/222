@@ -8,6 +8,9 @@ weight = 30  # Order that this section will appear.
 title = "Summer exchange course"
 subtitle = "University of StrathClyde"
 
+# CV location
+cv_pdf = “home/"
+
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
