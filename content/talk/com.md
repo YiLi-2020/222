@@ -5,7 +5,6 @@ authors:
 - Chao Teng
 - Wei He*
 date: "2020-11-16T00:00:00Z"
-doi: "https://doi.org/10.1016/j.yexcr.2020.111985"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
