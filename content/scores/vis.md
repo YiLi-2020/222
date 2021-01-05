@@ -27,7 +27,7 @@ subtitle = "University of StrathClyde"
   description = "theory & lab"  
   
 [[feature]]
-  icon = "chart-network"
+  icon = "lungs"
   icon_pack = "fas"
   name = "Pharmacokinetics"
   description = "based on computer modeling"
