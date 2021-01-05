@@ -1,14 +1,6 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+title: "Ungrad Coursework"  # Add a page title.
+summary: "Professional training & development"  # Add a page description.
+date: "2021-01-02T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
 ---
