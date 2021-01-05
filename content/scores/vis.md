@@ -15,22 +15,22 @@ subtitle = "University of StrathClyde"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "graduation-cap"
-  icon_pack = "fas"
-  name = "GPA"
-  description = "3.72 of 4.00 (Ugrad)<br/>3.87 of 4.00 (Grad)"
+  icon = "ciencia-vitae"
+  icon_pack = "ai"
+  name = "Immunology"
+  description = "foci: immune escape response"
   
 [[feature]]
-  icon = "globe-americas"
-  icon_pack = "fas"
-  name = "TOFEL iBT"
-  description = "118=R30+L30+S28+W30"  
+  icon = "inspire"
+  icon_pack = "ai"
+  name = "Drug Analysis"
+  description = "theory & lab"  
   
 [[feature]]
-  icon = "gofore"
-  icon_pack = "fab"
-  name = "GRE"
-  description = "337=V167+Q170 (AW3.5)"
+  icon = "pubpeer"
+  icon_pack = "ai"
+  name = "Pharmacokinetics"
+  description = "based on computer modeling"
 
 +++
 
