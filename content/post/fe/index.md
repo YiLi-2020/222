@@ -31,7 +31,7 @@ summary: Drug delivery strategies are potent to promote their delivery. Herein, 
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 #name: "Cite"
