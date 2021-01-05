@@ -8,8 +8,6 @@ weight = 30  # Order that this section will appear.
 title = "Summer exchange course"
 subtitle = "University of StrathClyde"
 
-# CV location
-cv_pdf = 'www.yil056.com'
 
 # Showcase personal skills or business features.
 # 
