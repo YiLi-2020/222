@@ -30,7 +30,7 @@ subtitle = "GPA: 3.73 / 4.00"
   icon = "gofore"
   icon_pack = "fab"
   name = "Intro to computer science"
-  description = "theory & lab, 1 term"
+  description = "theory & lab, 1 term (foci: MATLAB)"
 
 +++
 
