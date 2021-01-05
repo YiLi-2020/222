@@ -17,20 +17,20 @@ subtitle = "GPA: 3.73 / 4.00"
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Advanced Mathematics I & II"
+  name = "Advanced Mathematics I&II"
   description = "1 yr"
   
 [[feature]]
   icon = "globe-americas"
   icon_pack = "fas"
-  name = "Advanced Physics I & II"
+  name = "Advanced Physics I&II"
   description = "theory & lab, 1 yr"  
   
 [[feature]]
   icon = "gofore"
   icon_pack = "fab"
-  name = "Fundamentals of computer science"
-  description = "theory & lab, 1 yr"
+  name = "Intro to computer science"
+  description = "theory & lab, 1 term"
 
 +++
 
