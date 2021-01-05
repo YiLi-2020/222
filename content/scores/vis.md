@@ -9,7 +9,7 @@ title = "Summer exchange course"
 subtitle = "University of StrathClyde"
 
 # CV location
-cv_pdf = “https://www.yil056.com"
+cv_pdf = https://www.yil056.com
 
 # Showcase personal skills or business features.
 # 
