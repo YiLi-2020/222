@@ -23,7 +23,7 @@ abstract: The rapid spread of **coronavirus disease (COVID-19)** has greatly dis
 
 
 # Summary. An optional shortened abstract.
-summary: Even though several dugs have been suggested to be used against the disease, the said interventions should be backed by empirical clinical evidence. Therefore, this paper provides a systematic review and a meta-analysis of **efficacy and safety** of different COVID-19 drugs. 
+summary: Even though several dugs have been suggested to be used against the disease, the said interventions should be backed by empirical clinical evidence. Therefore, this paper provides a systematic review and a meta-analysis of efficacy and safety of different COVID-19 drugs. 
 
 tags:
 - Source Themes
