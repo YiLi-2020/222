@@ -26,13 +26,7 @@
     {{ with .icon }}<div class="featurette-icon"><i class="{{ $pack }} {{ $pack_prefix }}-{{ . }}"></i></div>{{ end }}
     <h3>{{ .name | markdownify | emojify }}</h3>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-    
-      <p>
-    <a class="btn btn-outline-primary btn-xs" href="{{ $st.Params.cv_pdf }}">
-     ➡️ View undergrad coursework
-    </a>
-    </p>
- 
+
   </div>
   {{ end }}
   
