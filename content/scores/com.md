@@ -27,8 +27,8 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 yr"  
   
 [[feature]]
-  icon = "gofore"
-  icon_pack = "fab"
+  icon = "laptop-code"
+  icon_pack = "fas"
   name = "Intro to computer science"
   description = "theory & lab, 1 term (foci: MATLAB)"
   
@@ -45,7 +45,7 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 yr"  
   
 [[feature]]
-  icon = "hubspot"
+  icon = "dice-d20"
   icon_pack = "fas"
   name = "Organic Chemistry I&II"
   description = "theory & lab, 1 yr"
@@ -75,7 +75,7 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term"  
  
 [[feature]]
-  icon = "chart-bar"
+  icon = "chart-pie"
   icon_pack = "fas"
   name = "Mathematical Statistics and Medical Statistical Analysis"
   description = "1 term"      
@@ -87,7 +87,7 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "1 term"     
  
 [[feature]]
-  icon = "graduation-cap"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Pharmacology"
   description = "theory & lab, 1 term"   
@@ -105,19 +105,19 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term"    
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "bong"
   icon_pack = "fas"
   name = "Medicinal Chemistry"
   description = "theory & lab, 1 term"    
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Chromatographic Analysis of drugs"
   description = "theory & lab, 1 term"   
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Spectroscopic Analysis of drugs"
   description = "theory & lab, 1 term"     
