@@ -36,19 +36,50 @@ subtitle = "GPA: 3.73 / 4.00"
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Inorganic Chemistry"
-  description = "1 term"
+  description = "theory & lab, 1 term"
   
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Analytical Chemistry I&II"
-  description = "1 yr"  
+  description = "theory & lab, 1 yr"  
   
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
   name = "Organic Chemistry I&II"
-  description = "1 yr"    
+  description = "theory & lab, 1 yr"
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Physical Chemistry I&II"
+  description = "theory & lab, 1 term"  
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Biochemistry & Molecular Biology"
+  description = "theory & lab, 1 term"  
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Anatomy and Physiology"
+  description = "theory & lab, 1 term"  
+ 
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Mathematical Statistics and Medical Statistical Analysis"
+  description = "1 term"      
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Intro to Pharmaceutical Science"
+  description = "1 term"     
+ 
 
 +++
 
