@@ -32,7 +32,7 @@ featured: true
 # links:
 #name: "Cite"
 #url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007
+url_pdf: files/1.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
