@@ -86,6 +86,40 @@ subtitle = "GPA: 3.73 / 4.00"
   name = "Intro to Pharmaceutical Science"
   description = "1 term"     
  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Pharmacology"
+  description = "theory & lab, 1 term"   
 
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Pharmaceutics"
+  description = "theory & lab, 1 term"  
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Pharmaceutical Analysis"
+  description = "theory & lab, 1 term"    
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Medicinal Chemistry"
+  description = "theory & lab, 1 term"    
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Chromatographic Analysis of drugs"
+  description = "theory & lab, 1 term"   
+  
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Spectroscopic Analysis of drugs"
+  description = "theory & lab, 1 term"     
 +++
 
