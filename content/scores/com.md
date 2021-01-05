@@ -63,8 +63,8 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term"  
   
 [[feature]]
-  icon = "viruses"
-  icon_pack = "far"
+  icon = "virus"
+  icon_pack = "fas"
   name = "Microbiology"
   description = "theory & lab, 1 term"    
   
