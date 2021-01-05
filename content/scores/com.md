@@ -21,7 +21,7 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "1 yr"
   
 [[feature]]
-  icon = "globe-americas"
+  icon = "atom"
   icon_pack = "fas"
   name = "Advanced Physics I&II"
   description = "theory & lab, 1 yr"  
@@ -33,13 +33,13 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term (foci: MATLAB)"
   
 [[feature]]
-  icon = "atom"
+  icon = "vial"
   icon_pack = "fas"
   name = "Inorganic Chemistry"
   description = "theory & lab, 1 term"
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "balance-scale"
   icon_pack = "fas"
   name = "Analytical Chemistry I&II"
   description = "theory & lab, 1 yr"  
@@ -57,13 +57,13 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term"  
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "brain"
   icon_pack = "fas"
   name = "Anatomy and Physiology"
   description = "theory & lab, 1 term"  
   
 [[feature]]
-  icon = "bacteria"
+  icon = "bacterium"
   icon_pack = "fas"
   name = "Microbiology"
   description = "theory & lab, 1 term"    
@@ -81,7 +81,7 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "1 term"      
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "prescription-bottle-alt"
   icon_pack = "fas"
   name = "Intro to Pharmaceutical Science"
   description = "1 term"     
@@ -99,7 +99,7 @@ subtitle = "GPA: 3.73 / 4.00"
   description = "theory & lab, 1 term"  
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "eye-dropper"
   icon_pack = "fas"
   name = "Pharmaceutical Analysis"
   description = "theory & lab, 1 term"    
