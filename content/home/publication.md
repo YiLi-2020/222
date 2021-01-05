@@ -12,6 +12,10 @@ title = "Publications"
 subtitle = "Highlights from my most recent research history."
 
 
+# CV location
+cv_pdf = “manuscripts/"
+
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
