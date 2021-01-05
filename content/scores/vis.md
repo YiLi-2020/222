@@ -15,8 +15,8 @@ subtitle = "University of StrathClyde"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "ciencia-vitae"
-  icon_pack = "ai"
+  icon = "diagnoses"
+  icon_pack = "fas"
   name = "Immunology"
   description = "foci: immune escape response"
   
@@ -27,8 +27,8 @@ subtitle = "University of StrathClyde"
   description = "theory & lab"  
   
 [[feature]]
-  icon = "pubpeer"
-  icon_pack = "ai"
+  icon = "chart-network"
+  icon_pack = "fas"
   name = "Pharmacokinetics"
   description = "based on computer modeling"
 
