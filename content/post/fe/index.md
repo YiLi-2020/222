@@ -1,18 +1,13 @@
 ---
 title: "Cocrystallization-like strategy for the codelivery of hydrophobic and hydrophilic drugs in a single carrier-free formulation"
 authors:
-- Qingqing Xiao
-- Xiaotong Li
 - <u>**Yi Li**</u> 
-- Zhifeng Wu
-- Chenjie Xu
-- ZHongjian Chen
 - Wei He*
-date: "2020-10-04T00:00:00Z"
+date: "2020-7-04T00:00:00Z"
 doi: "10.1016/j.apsb.2020.12.018"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-7-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -21,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[ Acta Pharmaceutica Sinica B ](https://www.sciencedirect.com/journal/acta-pharmaceutica-sinica-b) · [**Elsevier**](https://www.sciencedirect.com/journal/experimental-cell-research)"
+publication: "Under peer review · [ International Journal of Pharmaceutics ](https://www.journals.elsevier.com/international-journal-of-pharmaceutics) · [**Elsevier**](https://www.journals.elsevier.com/international-journal-of-pharmaceutics)"
 publication_short: ""
 
 abstract: The initiation and development of major inflammatory diseases, i.e., cancer, vascular inflammation, and some autoimmune diseases are closely linked to the immune system. Biologics-based immunotherapy is exerting a critical role against these diseases, whereas the usage of the immunomodulators is always limited by various factors such as susceptibility to digestion by enzymes in vivo, poor penetration across biological barriers, and rapid clearance by the reticuloendothelial system. Drug delivery strategies are potent to promote their delivery. Herein, we reviewed the potential targets for immunotherapy against the major inflammatory diseases, discussed the biologics and drug delivery systems involved in the immunotherapy, particularly highlighted the approved therapy tactics, and finally offer perspectives in this field.
