@@ -17,20 +17,39 @@ subtitle = ""
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "GPA"
-  description = "3.72 of 4.00 (Ugrad)<br/>3.87 of 4.00 (Grad)"
+  name = "Drug Regulation Laws"
+  description = "1 term"
   
 [[feature]]
-  icon = "globe-americas"
+  icon = "graduation-cap"
   icon_pack = "fas"
-  name = "TOFEL iBT"
-  description = "118=R30+L30+S28+W30"  
+  name = "Humanities and Medicines"
+  description = "1 term"  
   
 [[feature]]
-  icon = "gofore"
-  icon_pack = "fab"
-  name = "GRE"
-  description = "337=V167+Q170 (AW3.5)"
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Intro to Principles of Philosophy"
+  description = "1 term"  
+  
+  [[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "History of Nobel prize in Physiology or Medicine"
+  description = "1 term"   
+
+[[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "How to Write Research Papers"
+  description = "1 term"  
+  
+  [[feature]]
+  icon = "graduation-cap"
+  icon_pack = "fas"
+  name = "Pharmacology and Drug Discovery"
+  description = "1 term"  
+  
 
 +++
 
