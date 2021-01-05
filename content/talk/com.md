@@ -1,12 +1,9 @@
 ---
-title: "The Role of the Novel LincRNA uc002jit.1 in NF-kB-Mediated DNA Damage Repair in Acute Myeloid Leukemia Cells"
+title: "Cocrystallization-like Strategy for the Codelivery of Hydrophobic and Hydrophilic Drugs in a Single Carrier-free Formulation"
 authors:
-- Ding Li
-- Zelei Yu
 - <u>**Yi Li**</u> 
-- Tingting Wang
-- Xianliang Chen
-- Xianli Wu*
+- Chao Teng
+- Wei He*
 date: "2020-04-04T00:00:00Z"
 doi: "https://doi.org/10.1016/j.yexcr.2020.111985"
 
@@ -20,13 +17,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[_Experimental Cell Research_](https://www.sciencedirect.com/journal/experimental-cell-research) · [**Elsevier**](https://www.sciencedirect.com/journal/experimental-cell-research)"
+publication: "Submitted to **International Journal of Pharmaceutics**
+"
 publication_short: ""
 
-abstract: The roles and therapeutic potential of **long noncoding RNAs (lncRNAs)** in **acute myeloid leukemia (AML)** have attracted increased attention. However, many lncRNAs have not been annotated in AML, and their predictive value for AML therapy remains unclear. In this study, we identified a novel large intergenic noncoding RNA **uc002jit.1 (D43770)** from a lncRNA microarray. uc002jit.1 is 1800 nt long with a stable secondary structure. We first proved uc002jit.1 is a target gene of nuclear factor kappa B/RELA, RELA regulated uc002jit.1 transcription by binding to its promoter. Additionally, uc002jit.1 knockdown impaired the stability of poly (ADP-ribose) polymerase 1 (PARP1) mRNA, and then reduced PARP1 protein content and PARylation level upon DNA damage, thus inhibiting DNA damage repair in AML cells. Moreover, uc002jit.1 knockdown significantly inhibited AML cells proliferation and increased the sensitivity to chemotherapeutic drugs in vitro as well as in a mouse model in vivo. Overall, our study indicated that uc002jit.1 may be associated with the occurrence and prognosis of AML and could be a new diagnostic/prognostic biomarker and therapeutic target for AML.
+abstract: Codelivery of drugs is a promising strategy against several diseases such as infections and cancer. However, traditional drug carriers are typically characterized by having low drug payload limiting their long-term treatment efficacy. Using nanocrystals of insoluble drug as carriers, a carrier-free platform was developed previously to deliver a second insoluble drug for codelivery. To extend the concept, we hypothesized, herein, that the platform allows for codelivery of hydrophobic and hydrophilic drugs using a cocrystalization-like strategy. To obtain proof-of-concept, an insoluble chemotherapeutic agent, paclitaxel (PTX), and a water-soluble inhibitor of pyruvate dehydrogenase kinase, dichloroacetic acid (DCA), were utilized as model drugs. PTX-DCA hybrid nanocrystals (PTX-DCA NCs) were prepared by anti-solvent precipitation and characterized. Their in vitro antitumor activity against cancer cells was evaluated. PTX-DCA Ns prepared from the optimized formulation had a diameter of 160 nm and a rod-shape morphology and possessed encapsulated efficacy of approximately 30% for DCA. The use of the hybrid crystals enabled synergy to kill cancer cells, in particular in PTX-resistant cells in a dose-dependent pattern. In conclusion, by using a cocrystalization-like strategy a hydrophilic drug can be formulated into in a drug’s nanocrystals for codelivery.
 
 # Summary. An optional shortened abstract.
-summary: The therapeutic potential of long noncoding RNAs (lncRNAs) in acute myeloid leukemia (AML) remains unclear. In this study, we identified a novel lncRNA and indicated that it may be associated with the treatment of AML and could be a new  biomarker and therapeutic target for AML.
+summary: Submitted to **International Journal of Pharmaceutics**
 
 tags:
 - Source Themes
