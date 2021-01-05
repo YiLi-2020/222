@@ -1,5 +1,5 @@
 ---
-title: "The Role of the Novel LincRNA uc002jit.1 in NF-kB-Mediated DNA Damage Repair in Acute Myeloid Leukemia Cells"
+title: "The role of the novel lincRNA uc002jit.1 in NF-kB-mediated DNA damage repair in acute myeloid leukemia cells"
 authors:
 - Ding Li
 - Zelei Yu
