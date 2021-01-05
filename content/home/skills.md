@@ -50,4 +50,3 @@ subtitle = "GPA: 3.90 / 4.00"
   description = "2020 Winter" 
 
 +++
-View undergrad coursework
