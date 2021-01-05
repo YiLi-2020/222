@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "graduation-cap"
+  icon = "book"
   icon_pack = "fas"
   name = "Drug Regulation Laws"
   description = "1 term"
   
 [[feature]]
-  icon = "graduation-cap"
+  icon = "user-md"
   icon_pack = "fas"
   name = "Humanities and Medicines"
   description = "1 term"  
@@ -33,20 +33,20 @@ subtitle = ""
   description = "1 term"  
   
   [[feature]]
-  icon = "graduation-cap"
+  icon = "crown"
   icon_pack = "fas"
   name = "History of Nobel prize in Physiology or Medicine"
   description = "1 term"   
 
 [[feature]]
-  icon = "graduation-cap"
+  icon = "file-contract"
   icon_pack = "fas"
   name = "How to Write Research Papers"
   description = "1 term"  
   
   [[feature]]
-  icon = "graduation-cap"
-  icon_pack = "fas"
+  icon = "ads"
+  icon_pack = "ai"
   name = "Pharmacology and Drug Discovery"
   description = "1 term"  
   
