@@ -94,7 +94,7 @@ address = {street = "9500 Gilman Dr", city = "La Jolla", region = "CA", postcode
 
 #Geographic coordinates
 #To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "32.879960592991736", longitude = "-117.23311522259414"}
+coordinates = {latitude = "32.879", longitude = "-117.233"}
 
 # Directions for visitors to locate you.
 directions = "240A Structural Materials Engineering Building, NanoEngineering Dept."
