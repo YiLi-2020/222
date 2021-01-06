@@ -92,12 +92,12 @@ phone = "+86-15050590898"
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address = {street = "9500 Gilman Dr", city = "La Jolla", region = "CA", postcode = "92093", country = "U.S.", country_code = "US"}
 
-# Geographic coordinates
-# To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+Geographic coordinates
+To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
+coordinates = {latitude = "32.879960592991736", longitude = "-117.23311522259414"}
 
 # Directions for visitors to locate you.
-directions = "240A Structural Materials Engineering Building, Warren College"
+directions = "240A Structural Materials Engineering Building, NanoEngineering Dept."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
