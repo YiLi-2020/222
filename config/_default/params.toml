@@ -122,7 +122,7 @@ contact_links = [
   legalblurb = "All opinions expressed here are my own and do not necessarily represent those of any other agencies or groups."
 
 # HEADER PARAMETERS
-  watermark = "Bundle3.jpg"
+  watermark = "img/Bundle3.jpg"
   
 ############################
 ## Social
