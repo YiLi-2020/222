@@ -90,14 +90,14 @@ phone = "+86-15050590898"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Longmian Ave.", city = "Nanjing", region = "Jiangsu", postcode = "211198", country = "P.R.China", country_code = "CN"}
+address = {street = "9500 Gilman Dr", city = "La Jolla", region = "CA", postcode = "92093", country = "U.S.", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-directions = "Pharmaceutical Laboratory Building, Room430"
+directions = "240A Structural Materials Engineering Building, Warren College"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -110,7 +110,7 @@ directions = "Pharmaceutical Laboratory Building, Room430"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "envelope", icon_pack = "far", name = "Email Me", link = "yil056@ucsd.edu"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:.cid.b1a8b130abf9a9"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:.cid.b1a8b130abf9a9"},
   #{icon = "wechat", icon_pack = "fab", name = "We chat", link = "15050590898"},
   #{icon = "github", icon_pack = "fab", name = "github", link = "https://github.com/YiLi-2020"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
