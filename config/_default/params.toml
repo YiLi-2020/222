@@ -109,9 +109,9 @@ office_hours = ["Office hours by appointment"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "zotero", icon_pack = "ai", name = "Zoom meeting", link = "https://zoom.com.cn/j/2957794164?pwd=eVZ3MjJCNHQrLzNpOFBlcFFBVkY0UT09"},
-  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:.cid.b1a8b130abf9a9"},
-  #{icon = "wechat", icon_pack = "fab", name = "We chat", link = "15050590898"},
+  {icon = "rocketchat", icon_pack = "fab", name = "Zoom meeting", link = "https://zoom.com.cn/j/2957794164?pwd=eVZ3MjJCNHQrLzNpOFBlcFFBVkY0UT09"},
+  {icon = "steam", icon_pack = "fab", name = "Meet me in steam", link = "314159Lee"},
+  {icon = "github-square", icon_pack = "fab", name = "Meet me in github", link = "https://github.com/YiLi-2020"},
   #{icon = "github", icon_pack = "fab", name = "github", link = "https://github.com/YiLi-2020"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
