@@ -5,6 +5,10 @@
 <body id="top" data-spy="scroll" data-offset="70" data-target="{{ if or .IsHome (eq .Type "widget_page") }}#navbar-main{{else}}#TableOfContents{{end}}" {{ if not (.Scratch.Get "light") }}class="dark"{{end}}>
 
   {{ partial "search" . }}
+  
+  <!-- FLIP: FOR WATERMARK -->
+<div id="watermark" style="background-image:url('{{ $.Site.BaseURL }}/img/{{ .Site.Params.watermark }}');"></div>
+<!-- /FLIP --> 
 
   {{ partial "navbar" . }}
 
