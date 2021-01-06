@@ -86,7 +86,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "yil056@ucsd.edu"
-phone = "+86-15050590898"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -109,7 +109,7 @@ directions = "240A Structural Materials Engineering Building, NanoEngineering De
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "far", name = "Email Me", link = "yil056@ucsd.edu"},
+  #{icon = "envelope", icon_pack = "far", name = "Email Me", link = "yil056@ucsd.edu"},
   #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:live:.cid.b1a8b130abf9a9"},
   #{icon = "wechat", icon_pack = "fab", name = "We chat", link = "15050590898"},
   #{icon = "github", icon_pack = "fab", name = "github", link = "https://github.com/YiLi-2020"},
