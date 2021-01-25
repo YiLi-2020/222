@@ -8,6 +8,10 @@ weight = 10  # Order that this section will appear.
 title = "Compulsory course"
 subtitle = "GPA: 3.73 / 4.00"
 
+# CV location
+cv_pdf = "./files/16401702Transcript in English.pdf"
+
+
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
