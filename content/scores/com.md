@@ -9,7 +9,7 @@ title = "Compulsory course"
 subtitle = "GPA: 3.73 / 4.00"
 
 # CV location
-cv_pdf = "./files/16401702Transcript in English.pdf"
+cv_pdf = "./files/16401702Transcript in English .pdf"
 
 
 # Showcase personal skills or business features.
