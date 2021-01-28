@@ -9,7 +9,7 @@ title = "Compulsory course"
 subtitle = "GPA: 3.73 / 4.00"
 
 # DV location
-dv_pdf = "./files/16401702Transcript.pdf"
+dv_pdf = "./files/16401702.pdf"
 
 
 # Showcase personal skills or business features.
