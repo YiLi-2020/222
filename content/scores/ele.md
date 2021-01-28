@@ -8,6 +8,8 @@ weight = 20  # Order that this section will appear.
 title = "Elective course"
 subtitle = ""
 
+dv_pdf = "./files/16401702.pdf"
+
 # Showcase personal skills or business features.
 # 
 # Add/remove as many `[[feature]]` blocks below as you like.
