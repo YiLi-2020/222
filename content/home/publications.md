@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 51  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "from independent and collaborative projects"
+subtitle = "from independent & collaborative projects"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
