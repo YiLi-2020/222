@@ -36,7 +36,6 @@ featured: false
 #name: "Cite"
 #url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0014482720302007
-url_dataset: 'https://www.sciencedirect.com/journal/experimental-cell-research'
 url_poster: 'https://ars.els-cdn.com/content/image/1-s2.0-S0014482720302007-fx1_lrg.jpg'
 url_project: 'http://www.nsfc.gov.cn'
 

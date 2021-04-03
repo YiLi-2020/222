@@ -37,7 +37,6 @@ featured: false
 #name: "Cite"
 #url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2211383520308674
-url_dataset: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
 url_poster: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
 url_project: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
 
