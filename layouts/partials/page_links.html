@@ -71,7 +71,7 @@
 {{ else }}
 {{ with $page.Params.url_project }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  {{ i18n "btn_project" }}
+  {{ .Funding }}
 </a>
 {{ end }}
 {{ end }}
@@ -83,7 +83,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_Abstract" }}
+  {{ .Abstract }}
 </a>
 {{ end }}
 {{ if $page.Params.slides }}
