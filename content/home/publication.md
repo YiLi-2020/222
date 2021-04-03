@@ -14,6 +14,9 @@ subtitle = "from my most recent research history"
 # DV location
 dv_pdf = "thesis/"
 
+# DV location
+cv_pdf = "thesis/"
+
 
 
 [content]
