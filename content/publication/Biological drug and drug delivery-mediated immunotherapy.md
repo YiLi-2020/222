@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "[ Acta Pharmaceutica Sinica B ](https://www.sciencedirect.com/journal/acta-pharmaceutica-sinica-b) · [**Elsevier**](https://www.sciencedirect.com/journal/experimental-cell-research)"
-publication_short: ""
+publication_short: "_Acta Pharmaceutica Sinica B_"
 
 abstract: The initiation and development of major inflammatory diseases, i.e., cancer, vascular inflammation, and some autoimmune diseases are closely linked to the immune system. Biologics-based immunotherapy is exerting a critical role against these diseases, whereas the usage of the immunomodulators is always limited by various factors such as susceptibility to digestion by enzymes in vivo, poor penetration across biological barriers, and rapid clearance by the reticuloendothelial system. Drug delivery strategies are potent to promote their delivery. Herein, we reviewed the potential targets for immunotherapy against the major inflammatory diseases, discussed the biologics and drug delivery systems involved in the immunotherapy, particularly highlighted the approved therapy tactics, and finally offer perspectives in this field.
 
