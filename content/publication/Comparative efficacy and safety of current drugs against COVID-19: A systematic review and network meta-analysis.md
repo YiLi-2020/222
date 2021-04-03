@@ -27,7 +27,7 @@ summary: Even though several dugs have been suggested to be used against the dis
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 #name: "Cite"
