@@ -11,6 +11,11 @@ weight = 50  # Order that this section will appear.
 title = "Dissertation"
 subtitle = "Undergrad Dissertation"
 
+# CV location
+av_pdf = "./files/YiLi-Defence.pdf"
+
+# CV location
+bv_pdf = "./files/YiLi-Thesis.pdf"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
