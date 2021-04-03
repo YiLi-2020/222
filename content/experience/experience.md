@@ -54,7 +54,9 @@ date_format = "Jan 2006"
   description = ""
   
   
-  
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "2"
 +++
 
 
