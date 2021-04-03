@@ -4,7 +4,7 @@ authors:
 - <u>**Yi Li**</u> 
 - Wei He*
 date: "2020-7-04T00:00:00Z"
-doi: "https://www.sciencedirect.com/science/article/pii/S1001841721002394"
+doi: "https://doi.org/10.1016/j.cclet.2021.03.085"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-7-01T00:00:00Z"
