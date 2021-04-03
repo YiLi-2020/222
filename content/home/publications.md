@@ -10,8 +10,7 @@ weight = 51  # Order that this section will appear.
 title = "Publications"
 subtitle = "from independent & collaborative projects"
 
-# DV location
-cv_pdf = "manuscripts/"
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
