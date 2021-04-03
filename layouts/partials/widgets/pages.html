@@ -76,6 +76,12 @@
   </div>
   <div class="col-12 col-lg-8">
 
+    <p>
+      <a class="btn btn-outline-primary btn-xs" href="{{ $page.Params.cv_pdf }}">
+        ➡️ View forthcoming articles
+      </a>
+      </p>
+
     {{ with $st.Content }}{{ . }}{{ end }}
 
     {{ range $post := $query }}
