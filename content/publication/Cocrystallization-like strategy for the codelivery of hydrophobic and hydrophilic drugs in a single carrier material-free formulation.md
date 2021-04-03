@@ -1,13 +1,16 @@
 ---
-title: "Comparative efficacy and safety of current drugs against COVID-19: A systematic review and network meta-analysis"
+title: "Cocrystallization-like strategy for the codelivery of hydrophobic and hydrophilic drugs in a single carrier material-free formulation"
 authors:
 - <u>**Yi Li**</u> 
+- Chao Teng
+- Helena S. Azevedo
+- Lifang Yin*
 - Wei He*
-date: "2020-11-16T00:00:00Z"
-doi: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1"
+date: "2021-03-25T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cclet.2021.03.085"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2021-04-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +19,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[_Frontiers in Pharmacology_](https://www.frontiersin.org/journals/pharmacology) · [**Frontiers Media S.A.**](https://www.frontiersin.org/)"
+publication: "[_Chinese Chemical Letters_](https://www.sciencedirect.com/journal/chinese-chemical-letters) · [**Elsevier**](https://www.elsevier.com/)"
 publication_short: ""
 
 abstract: The rapid spread of **coronavirus disease (COVID-19)** has greatly disrupted the livelihood of many people around the world. To date, more than 35.16 million COVID-19 cases with 1.037million total deaths have been reported worldwide. Compared with China, where the disease was first reported, cases of COVID-19, the number of confirmed cases for the disease in the rest of the world have been incredibly high. Even though several dugs have been suggested to be used against the disease, the said interventions should be backed by empirical clinical evidence. Therefore, this paper provides a systematic review and a meta-analysis of **efficacy and safety** of different COVID-19 drugs.
