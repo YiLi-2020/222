@@ -11,7 +11,7 @@ title = "Publications"
 subtitle = "from independent & collaborative projects"
 
 # DV location
-dv_pdf = "thesis/"
+dv_pdf = "manuscripts/"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
