@@ -6,7 +6,7 @@ authors:
 - <u>**Yi Li**</u> 
 - Zhifeng Wu
 - Chenjie Xu
-- ZHongjian Chen
+- Zhongjian Chen
 - Wei He*
 date: "2020-10-04T00:00:00Z"
 doi: "10.1016/j.apsb.2020.12.018"
