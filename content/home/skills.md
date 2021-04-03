@@ -11,8 +11,7 @@ subtitle = "GPA: 3.90 / 4.00"
 # CV location
 cv_pdf = "scores/"
 
-# DV location
-dv_pdf = "./files/Yi Li academichistory.pdf"
+
 
 # Showcase personal skills or business features.
 # 
