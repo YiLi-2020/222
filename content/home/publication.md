@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Highlights"
-subtitle = "from my most recent research history"
+subtitle = "from my most recent research"
 
 # DV location
 cv_pdf = "experience/"
