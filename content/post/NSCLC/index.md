@@ -4,7 +4,7 @@ authors:
 - <u>**Yi Li**</u> 
 - Wei He*
 date: "2020-7-04T00:00:00Z"
-doi: "10.1016/j.apsb.2020.12.018"
+doi: "https://www.sciencedirect.com/science/article/pii/S1001841721002394"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-7-01T00:00:00Z"
@@ -32,9 +32,7 @@ featured: true
 #name: "Cite"
 #url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
 url_pdf: https://www.sciencedirect.com/science/article/pii/S2211383520308674
-url_dataset: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
-url_poster: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
-url_project: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
