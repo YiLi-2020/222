@@ -14,7 +14,7 @@ role: A Growing Scientist & LEGO Enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: UC San Deigo
+- name: University of california, San Deigo
   url: "https://www.ucsd.edu"
 
 # Short bio (displayed in user profile at end of posts)
