@@ -12,10 +12,10 @@ title = "Dissertation"
 subtitle = "Undergrad Dissertation"
 
 # CV location
-av_pdf ="/10.pdf"
+av_pdf = "./files/10.pdf"
 
 # CV location
-bv_pdf ="/11.pdf"
+bv_pdf = "./files/11.pdf"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
