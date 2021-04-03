@@ -12,10 +12,10 @@ title = "Dissertation"
 subtitle = "Undergrad Dissertation"
 
 # CV location
-av_pdf ="/YiLi-Defence.pdf"
+av_pdf ="/10.pdf"
 
 # CV location
-bv_pdf ="/YiLi-Thesis.pdf"
+bv_pdf ="/11.pdf"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
