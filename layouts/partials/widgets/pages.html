@@ -73,6 +73,15 @@
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+ 
+ 
+    <p>
+      <a class="btn btn-outline-primary btn-xs" href="{{ $st.Params.cv_pdf }}">
+       ➡️ View forthcoming articles
+      </a>
+      </p>
+ 
+ 
   </div>
   <div class="col-12 col-lg-8">
 
