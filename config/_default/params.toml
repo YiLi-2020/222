@@ -97,11 +97,11 @@ address = {street = "9500 Gilman Dr", city = "La Jolla", region = "CA", postcode
 coordinates = {latitude = "32.8792", longitude = "-117.2332"}
 
 # Directions for visitors to locate you.
-directions = "240A Structural Materials Engineering Building, NanoEngineering Dept."
+directions = "Structural Materials Engineering Building, NanoEngineering Dept."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Office hours by appointment"]
+#office_hours = ["Office hours by appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
@@ -109,10 +109,10 @@ office_hours = ["Office hours by appointment"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "rocketchat", icon_pack = "fab", name = "Zoom meeting", link = "https://zoom.com.cn/j/2957794164?pwd=eVZ3MjJCNHQrLzNpOFBlcFFBVkY0UT09"},
-  {icon = "steam", icon_pack = "fab", name = "Meet me in steam", link = "https://steamcommunity.com/profiles/76561199019753367/"},
+  {icon = "facebook-square", icon_pack = "fab", name = "Meet me in facebook", link = "https://www.facebook.com/profile.php?id=100062288853813,
+  {icon = "steam-square", icon_pack = "fab", name = "Meet me in steam", link = "https://steamcommunity.com/profiles/76561199019753367/"},
   {icon = "github-square", icon_pack = "fab", name = "Meet me in github", link = "https://github.com/YiLi-2020"},
-  #{icon = "github", icon_pack = "fab", name = "github", link = "https://github.com/YiLi-2020"},
+  {icon = "discord", icon_pack = "fab", name = "github", link = "https://discord.gg/df2kg6FU"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
