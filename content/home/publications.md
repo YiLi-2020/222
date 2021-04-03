@@ -10,12 +10,6 @@ weight = 51  # Order that this section will appear.
 title = "Publications"
 subtitle = "from independent & collaborative projects"
 
-<<<<<<< HEAD
-
-=======
-# DV location
-dv_pdf = "manuscripts/"
->>>>>>> parent of f299b76 (forthcoming)
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
