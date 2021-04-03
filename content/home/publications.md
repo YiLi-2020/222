@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
-title = "Publication"
-subtitle = "Independent & coobrative"
+title = "Publications"
+subtitle = "from independent and collaborative projects"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
