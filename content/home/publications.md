@@ -2,16 +2,13 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "featured0"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 51  # Order that this section will appear.
 
 title = "Publications"
 subtitle = "from independent & collaborative projects"
-
-# DV location
-dv_pdf = manuscripts/"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
