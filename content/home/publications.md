@@ -10,6 +10,9 @@ weight = 51  # Order that this section will appear.
 title = "Publications"
 subtitle = "from independent & collaborative projects"
 
+# DV location
+dv_pdf = "thesis/"
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
