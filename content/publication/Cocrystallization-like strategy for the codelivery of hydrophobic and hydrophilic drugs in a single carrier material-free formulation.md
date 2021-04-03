@@ -34,11 +34,11 @@ featured: true
 
 # links:
 #name: "Cite"
-#url: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1"
-url_pdf: https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1
-url_dataset: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
-url_poster: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
-url_project: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
+#url: "https://doi.org/10.1016/j.cclet.2021.03.085"
+url_pdf: https://reader.elsevier.com/reader/sd/pii/S1001841721002394?token=5420E92CBB0F0933443A049CFE164D172E1D485503CB52F16ADAAAFAA0C7ED384DA571CAED61D009E085ECCA7F6B69BA&originRegion=us-east-1&originCreation=20210403072555
+url_supporting information: 'https://ars.els-cdn.com/content/image/1-s2.0-S1001841721002394-mmc1.pdf'
+url_graphic abstract: 'https://ars.els-cdn.com/content/image/1-s2.0-S1001841721002394-ga1.jpg'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
