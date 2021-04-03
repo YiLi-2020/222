@@ -12,10 +12,12 @@ title = "Highlights"
 subtitle = "from my most recent research history"
 
 # DV location
-dv_pdf = "thesis/"
+cv_pdf = "experience/"
 
 # DV location
-cv_pdf = "thesis/"
+dv_pdf = "thesis/"
+
+
 
 
 
