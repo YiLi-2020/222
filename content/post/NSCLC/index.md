@@ -22,11 +22,11 @@ publication_short: ""
 abstract: Codelivery of drugs is a promising strategy against several diseases such as infections and cancer. However, traditional drug carriers are typically characterized by having low drug payload limiting their long-term treatment efficacy. Using nanocrystals of insoluble drug as carriers, a carrier-free platform was developed previously to deliver a second insoluble drug for codelivery. To extend the concept, we hypothesized, herein, that the platform allows for codelivery of hydrophobic and hydrophilic drugs using a cocrystalization-like strategy. To obtain proof-of-concept, an insoluble chemotherapeutic agent, paclitaxel (PTX), and a water-soluble inhibitor of pyruvate dehydrogenase kinase, dichloroacetic acid (DCA), were utilized as model drugs. PTX-DCA hybrid nanocrystals (PTX-DCA NCs) were prepared by anti-solvent precipitation and characterized. Their in vitro antitumor activity against cancer cells was evaluated. PTX-DCA Ns prepared from the optimized formulation had a diameter of 160 nm and a rod-shape morphology and possessed encapsulated efficacy of approximately 30% for DCA. The use of the hybrid crystals enabled synergy to kill cancer cells, in particular in PTX-resistant cells in a dose-dependent pattern. In conclusion, by using a cocrystalization-like strategy a hydrophilic drug can be formulated into in a drug’s nanocrystals for codelivery.
 
 # Summary. An optional shortened abstract.
-summary: Codelivery of drugs is a promising strategy against several diseases such as infections and cancer. However, traditional drug carriers are typically characterized by having low drug payload limiting their long-term treatment efficacy. Using nanocrystals of insoluble drug as carriers, a carrier-free platform was developed previously to deliver a second insoluble drug for codelivery.
+summary: To obtain proof-of-concept, an insoluble chemotherapeutic agent, paclitaxel (PTX), and a water-soluble inhibitor of pyruvate dehydrogenase kinase, dichloroacetic acid (DCA), were utilized as model drugs. PTX-DCA hybrid nanocrystals (PTX-DCA NCs) were prepared by anti-solvent precipitation and characterized. Their in vitro antitumor activity against cancer cells was evaluated. PTX-DCA Ns prepared from the optimized formulation had a diameter of 160 nm and a rod-shape morphology and possessed encapsulated efficacy of approximately 30% for DCA. The use of the hybrid crystals enabled synergy to kill cancer cells, in particular in PTX-resistant cells in a dose-dependent pattern. In conclusion, by using a cocrystalization-like strategy a hydrophilic drug can be formulated into in a drug’s nanocrystals for codelivery.
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 #name: "Cite"
