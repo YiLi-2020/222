@@ -13,6 +13,9 @@ subtitle = "from independent & collaborative projects"
 # DV location
 cv_pdf = "manuscripts/"
 
+# DV location
+dv_pdf = "https://scholar.google.com/citations?hl=en&user=vWavkyIAAAAJ"
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
