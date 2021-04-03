@@ -71,7 +71,7 @@
 {{ else }}
 {{ with $page.Params.url_project }}
 <a class="btn btn-outline-primary btn-page-header{{ if $is_list }} btn-sm{{end}}" href="{{ . }}" target="_blank" rel="noopener">
-  Funding
+  {{ .Funding }}
 </a>
 {{ end }}
 {{ end }}
