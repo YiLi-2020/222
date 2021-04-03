@@ -69,12 +69,6 @@
   {{ $i18n = "more_pages" }}
 {{ end }}
 
-<p>
-  <a class="btn btn-outline-primary btn-xs" href="{{ $st.Params.dv_pdf }}">
-   ➡️ View forthcoming articles
-  </a>
-  </p>
-
 {{ $columns := $st.Params.design.columns | default "2" }}
 
 <div class="col-12 {{if eq $columns "2"}}col-lg-8{{end}}">
