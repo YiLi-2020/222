@@ -16,7 +16,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[_medRXiv_](https://www.medrxiv.org/)
+publication: "[_medRXiv_](https://www.medrxiv.org/)"
 publication_short: "medRXiv"
 
 abstract: The rapid spread of **coronavirus disease (COVID-19)** has greatly disrupted the livelihood of many people around the world. To date, more than 35.16 million COVID-19 cases with 1.037million total deaths have been reported worldwide. Compared with China, where the disease was first reported, cases of COVID-19, the number of confirmed cases for the disease in the rest of the world have been incredibly high. Even though several dugs have been suggested to be used against the disease, the said interventions should be backed by empirical clinical evidence. Therefore, this paper provides a systematic review and a meta-analysis of **efficacy and safety** of different COVID-19 drugs.
