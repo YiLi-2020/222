@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Manuscripts"
-subtitle = "Forthcoming publications."
+subtitle = "Forthcoming articles."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
