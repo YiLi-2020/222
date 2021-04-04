@@ -30,7 +30,7 @@ height = "300px"
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Get Academic"
-  cta_url = "https://sourcethemes.com/academic/"
+  cta_url = ".files/10.pdf"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
   
