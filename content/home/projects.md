@@ -80,9 +80,7 @@ subtitle = "Independent works & Cross-disciplinary collaborations"
   
 [advanced]
  # Custom CSS. 
- css_style = .btn-toolbar {
-    justify-content: center;
-}
+ css_style = ""
  
  # CSS class.
  css_class = ""
