@@ -11,8 +11,6 @@ weight = 50  # Order that this section will appear.
 title = "Dissertation"
 subtitle = "Undergrad Dissertation"
 
-# CV location
-av_pdf = "./files/10.pdf"
 
 # CV location
 bv_pdf = "./files/11.pdf"
