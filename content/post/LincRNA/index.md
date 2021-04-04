@@ -26,7 +26,7 @@ summary: Joined a pharmacology lab in my hometown for this unbelivable vacation.
 
 tags:
 - Tumor Pharmacology
-featured: false
+featured: true
 
 # links:
 # - name: ""
