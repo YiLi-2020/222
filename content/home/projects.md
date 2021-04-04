@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Research"
+title = "Research topics"
 subtitle = "Independent works & Cross-disciplinary collaborations"
 
 # CV location
