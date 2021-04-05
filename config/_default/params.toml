@@ -199,6 +199,9 @@ plugins_js  = []
   publication_view = 2
   talk_view = 2
 
+# watermark on the about widget
+watermark = "img/wave.jpg"
+
 ############################
 ## Comments
 ############################
