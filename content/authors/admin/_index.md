@@ -77,4 +77,4 @@ I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vi
 
 I am actively contributing to [carrier design](#Research topics), and methods that I implemented are now used for [co-deliver cargos](#Highlights) tunable in hydrophobicity. In my spare time, I enjoy build [LEGOs](#slider), practice [kendo](#slider), and playing [piano](#slider).
 
-🤖 🏋️‍ :musical_keyboard: :guitar: :tennis: :basketball: 🎮 :ocean: :ocean:
+:ocean: 🤖 ‍ :musical_keyboard: :guitar: :tennis: :basketball: 🎮 :ocean: :ocean:
