@@ -14,8 +14,8 @@ role: A Growing Scientist & LEGO Enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, San Deigo
-  url: "https://www.ucsd.edu"
+- name: UC San Deigo
+  url: "https://ne.ucsd.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Pharmaceutical Science
+  - course: B.S. in Pharmaceutical Science, research honors
     institution: China Pharmaceutical University
     year: 2020
   - course: M.S. in NanoEngineering
