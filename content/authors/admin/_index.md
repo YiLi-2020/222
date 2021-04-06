@@ -25,7 +25,7 @@ interests:
 - BioPhotonics
 - Biomimetic materials
 - Multidrug resistance
-- Molecule simulation
+- Molecular simulations
 
 education:
   courses:
