@@ -22,8 +22,7 @@ organizations:
 
 interests:
 - Drug delivery
-- BioPhotonics
-- Biomimetic materials
+- Biomimetic strategies
 - Multidrug resistance
 - Molecular simulations
 
