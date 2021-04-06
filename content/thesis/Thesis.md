@@ -15,7 +15,7 @@ subtitle = "Undergrad Dissertation"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "project"
+  page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -25,7 +25,7 @@ subtitle = "Undergrad Dissertation"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "1"
     category = ""
     publication_type = ""
   

@@ -25,7 +25,7 @@ abstract: My graduating design.<br/>Drug-delivery-drug strategies for MDR revers
 summary: My graduating design. <br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
 
 tags:
-- Drug Delivery
+- 1
 featured: false
 
 # links:
