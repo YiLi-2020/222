@@ -32,7 +32,7 @@ height = "400px"
   cta_label = "Download PDF version"
   cta_url = "./files/10.pdf"
   cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
+  cta_icon = "file-pdf"
   
   [[item]]
   title = "Sketch maps"
