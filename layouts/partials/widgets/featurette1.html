@@ -7,11 +7,7 @@
     <h1>{{ . | markdownify | emojify }}</h1>
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
     
-    #<p>
-      #<a class="btn btn-outline-primary btn-xs" href="{{ $page.Params.cv_pdf }}">
-        #Transcripts
-        #</a>
-        #</p>
+
     
   </div>
   {{ end }}
