@@ -21,13 +21,13 @@ subtitle = "Undergrad Dissertation"
   count = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order = "asc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "1"
+    publication_type = ""
   
 [design]
   # Toggle between the various page layout types.
