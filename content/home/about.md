@@ -16,7 +16,7 @@ author = "admin"
 
 [design.background]
     # Name of image in `assets/media/`.
-    image = "wave1.jpg"
+    image = "wave2.jpg"
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_darken = 0
     image_size = "cover"
