@@ -1,15 +1,10 @@
 ---
-title: "Biological drug and drug delivery-mediated immunotherapy"
+title: "Construct drug-drug Ns to treat NSCLC"
 authors:
-- Qingqing Xiao
-- Xiaotong Li
-- <u>**Yi Li**</u> 
-- Zhifeng Wu
-- Chenjie Xu
-- ZHongjian Chen
-- Wei He*
-date: "2020-10-04T00:00:00Z"
-doi: "10.1016/j.apsb.2020.12.018"
+- China Pharmaceutical University
+- Jul.2019-present
+date: "2019-08-15T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,30 +16,34 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "[ Acta Pharmaceutica Sinica B ](https://www.sciencedirect.com/journal/acta-pharmaceutica-sinica-b) · [**Elsevier**](https://www.sciencedirect.com/journal/experimental-cell-research)"
+publication: ""
 publication_short: ""
 
-abstract: The initiation and development of major inflammatory diseases, i.e., cancer, vascular inflammation, and some autoimmune diseases are closely linked to the immune system. Biologics-based immunotherapy is exerting a critical role against these diseases, whereas the usage of the immunomodulators is always limited by various factors such as susceptibility to digestion by enzymes in vivo, poor penetration across biological barriers, and rapid clearance by the reticuloendothelial system. Drug delivery strategies are potent to promote their delivery. Herein, we reviewed the potential targets for immunotherapy against the major inflammatory diseases, discussed the biologics and drug delivery systems involved in the immunotherapy, particularly highlighted the approved therapy tactics, and finally offer perspectives in this field.
+abstract: My graduating design.<br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
 
 # Summary. An optional shortened abstract.
-summary: Drug delivery strategies are potent to promote their delivery. Herein, we reviewed the potential targets for immunotherapy against the major inflammatory diseases, discussed the biologics and drug delivery systems involved in the immunotherapy, particularly highlighted the approved therapy tactics, and finally offer perspectives in this field.
+summary: My graduating design. <br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
 
 tags:
-- Source Themes
-featured: true
+- Drug Delivery
+featured: false
 
 # links:
-#name: "Cite"
-#url: "https://aiche.onlinelibrary.wiley.com/action/showCitFormats?doi=10.1002%2Fbtm2.10130"
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2211383520308674
-url_dataset: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
-url_poster: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
-url_project: 'https://www.sciencedirect.com/science/article/pii/S2211383520308674'
+# - name: ""
+#   url: ""
+url_pdf:
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: 
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -62,3 +61,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+**Independent research experiences solidified my lab skills as a well-prepared independent researcher, and facilitated my personal development as a growing young scientist.**<br/><br/>
+Through clinical investigation, I found that when people are diagnosed with **non-small cell lung cancer (NSCLC)**, they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to **drug resistance**. Therefore, I am trying to find a solution to **drug resistance** in the lungs and identify methods to increase apoptosis through the induction of **non-lysosomal endocytic pathways**.<br/><br/>
+So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal **A549 cells**, and plan to conduct in vivo studies in a **rat subcutaneous tumor model**.From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. 
