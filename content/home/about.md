@@ -32,6 +32,6 @@ author = "admin"
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "custom.scss"
 +++
 
