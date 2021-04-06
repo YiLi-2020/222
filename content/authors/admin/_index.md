@@ -21,7 +21,7 @@ organizations:
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 
 interests:
-- Drug delivery
+- Drug delivery {{< icon name="terminal" pack="fas" >}}
 - BioPhotonics
 - Biomimetic materials
 - Multidrug resistance
