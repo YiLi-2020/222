@@ -27,7 +27,7 @@ subtitle = "Undergrad Dissertation"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = "7"
   
 [design]
   # Toggle between the various page layout types.
