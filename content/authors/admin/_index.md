@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I am actively contributing to [carrier design](#Research topics), and methods that I implemented are now used for [co-deliver cargos](#Highlights) tunable in hydrophobicity. In my spare time, I enjoy building [LEGOs](#slider), practicing [kendo](#slider), and playing [piano](#slider).
+I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I am actively contributing to [nano device](#Research topics) design, and methods that I implemented are now used for [co-deliver cargos](#Highlights) tunable in hydrophobicity. In my spare time, I enjoy building [LEGOs](#slider), practicing [kendo](#slider), and playing [piano](#slider).
 
 :ocean: :art: 🤖 :musical_score: :surfer: :movie_camera: :tennis: :basketball: 🎮 :ghost: :ocean:
