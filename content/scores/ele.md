@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Elective course"
+title = "Elective courses"
 subtitle = ""
 
 dv_pdf = "./files/16401702.pdf"

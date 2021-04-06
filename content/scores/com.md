@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Compulsory course"
+title = "Compulsory courses"
 subtitle = "GPA: 3.73 / 4.00"
 
 # DV location
