@@ -33,7 +33,7 @@ dv_pdf = "https://scholar.google.com/citations?hl=en&user=vWavkyIAAAAJ"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = ""
     exclude_featured = true
   
 [design]
