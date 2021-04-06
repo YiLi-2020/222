@@ -21,7 +21,7 @@ author = "admin"
     image_darken = 0.8
     image_size = "cover"
     # Options include `left`, `center` (default), or `right`.
-    image_position = center
+    image_position = "center"
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax = true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
