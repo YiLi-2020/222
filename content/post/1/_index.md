@@ -2,7 +2,7 @@
 title: "Construct drug-drug Ns to treat NSCLC"
 authors:
 - China Pharmaceutical University
-- Jul.2019-present
+- Jul.2020-present
 date: "2022-08-15T00:00:00Z"
 doi: ""
 
@@ -26,7 +26,7 @@ summary: My graduating design. <br/>Drug-delivery-drug strategies for MDR revers
 
 tags:
 - 1
-featured: false
+featured: true
 
 # links:
 # - name: ""
