@@ -18,6 +18,6 @@ author = "admin"
     # Name of image in `assets/media/`.
     image = "wave.jpg"
     # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_darken = 0.6
+    image_darken = 0.2
 +++
 
