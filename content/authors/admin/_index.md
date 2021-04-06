@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Pharmaceutical Science, _Honors research program_
+  - course: B.S. in Pharmaceutical Science, Honors research program
     institution: China Pharmaceutical University
     year: 2020
   - course: M.S. in NanoEngineering
