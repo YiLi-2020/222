@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Pharmaceutical Science, research honors
+  - course: B.S. in Pharmaceutical Science, [Honors research program] (http://yxbjjh.cpu.edu.cn/)
     institution: China Pharmaceutical University
     year: 2020
   - course: M.S. in NanoEngineering
