@@ -35,7 +35,7 @@ dv_pdf = "thesis/"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "2"
   
 [design]
   # Toggle between the various page layout types.
