@@ -53,9 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/YiLi-2020
-- icon: arxiv
-  icon_pack: ai
-  link: https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/li-yi-89b201190/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
