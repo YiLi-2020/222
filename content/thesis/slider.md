@@ -35,50 +35,74 @@ height = "400px"
   cta_icon = "file-pdf"
   
   [[item]]
-  title = "Sketch maps"
+  title = ""
   content = ""
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Abstracts.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_img = "12.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
   
  [[item]]
-  title = "Classwork & presentations"
-  content = "Illustrations and TEM pseudocolor graph"
+  title = ""
+  content = ""
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Assignments.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_img = "13.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = "Cells Gallery"
-  content = "drawn by Ai, LEGO studio and 3DsMax"
+  title = ""
+  content = ""
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "Cells.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_img = "14.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
   
    [[item]]
-  title = "Tumor Treatment Strategies"
-  content = "Inspired by The Lord of the Rings"
-  align = "center"
-
- # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Rings.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "LEGO Labs"
+  title = ""
   content = ""
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Lab.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_img = "15.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = ""
+  content = ""
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "16.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
   
+  [[item]]
+  title = ""
+  content = ""
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "17.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  [[item]]
+  title = ""
+  content = ""
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "18.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  [[item]]
+  title = ""
+  content = ""
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "19.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
  
   
  
