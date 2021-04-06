@@ -25,9 +25,9 @@ subtitle = "Undergrad Dissertation"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = 1
+    tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "1"
   
 [design]
   # Toggle between the various page layout types.
