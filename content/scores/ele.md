@@ -19,37 +19,37 @@ dv_pdf = "./files/16401702.pdf"
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "Drug Regulation Laws"
+  name = "Drug regulation laws"
   description = "1 term"
   
 [[feature]]
   icon = "user-md"
   icon_pack = "fas"
-  name = "Humanities and Medicines"
+  name = "Humanities and medicines"
   description = "1 term"  
   
 [[feature]]
   icon = "graduation-cap"
   icon_pack = "fas"
-  name = "Intro to Principles of Philosophy"
+  name = "Intro to principles of philosophy"
   description = "1 term"  
   
   [[feature]]
   icon = "crown"
   icon_pack = "fas"
-  name = "History of Nobel prize in Physiology or Medicine"
+  name = "History of nobel prize in physiology or medicine"
   description = "1 term"   
 
 [[feature]]
   icon = "file-contract"
   icon_pack = "fas"
-  name = "How to Write Research Papers"
+  name = "How to write research papers"
   description = "1 term"  
   
   [[feature]]
   icon = "ads"
   icon_pack = "ai"
-  name = "Pharmacology and Drug Discovery"
+  name = "Pharmacology and drug discovery"
   description = "1 term"  
   
 

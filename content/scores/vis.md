@@ -24,7 +24,7 @@ subtitle = "University of StrathClyde"
 [[feature]]
   icon = "inspire"
   icon_pack = "ai"
-  name = "Drug Analysis"
+  name = "Drug analysis"
   description = "theory & lab"  
   
 [[feature]]

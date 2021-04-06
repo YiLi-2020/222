@@ -21,13 +21,13 @@ dv_pdf = "./files/16401702.pdf"
 [[feature]]
   icon = "scirate"
   icon_pack = "ai"
-  name = "Advanced Mathematics I&II"
+  name = "Advanced mathematics I&II"
   description = "1 yr"
   
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "Advanced Physics I&II"
+  name = "Advanced physics I&II"
   description = "theory & lab, 1 yr"  
   
 [[feature]]
@@ -39,55 +39,55 @@ dv_pdf = "./files/16401702.pdf"
 [[feature]]
   icon = "vial"
   icon_pack = "fas"
-  name = "Inorganic Chemistry"
+  name = "Inorganic chemistry"
   description = "theory & lab, 1 term"
   
 [[feature]]
   icon = "balance-scale"
   icon_pack = "fas"
-  name = "Analytical Chemistry I&II"
+  name = "Analytical chemistry I&II"
   description = "theory & lab, 1 yr"  
   
 [[feature]]
   icon = "dice-d20"
   icon_pack = "fas"
-  name = "Organic Chemistry I&II"
+  name = "Organic chemistry I&II"
   description = "theory & lab, 1 yr"
   
 [[feature]]
   icon = "temperature-high"
   icon_pack = "fas"
-  name = "Physical Chemistry I&II"
+  name = "Physical chemistry I&II"
   description = "theory & lab, 1 term"  
   
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Anatomy and Physiology"
+  name = "Anatomy and physiology"
   description = "theory & lab, 1 term"  
   
 [[feature]]
   icon = "biohazard"
   icon_pack = "fas"
-  name = "Microbiology"
+  name = "microbiology"
   description = "theory & lab, 1 term"    
   
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
-  name = "Biochemistry & Molecular Biology"
+  name = "Biochemistry & nolecular biology"
   description = "theory & lab, 1 term"  
  
 [[feature]]
   icon = "chart-pie"
   icon_pack = "fas"
-  name = "Mathematical Statistics and Medical Statistical Analysis"
+  name = "Mathematical statistics and medical statistical analysis"
   description = "1 term"      
   
 [[feature]]
   icon = "prescription-bottle-alt"
   icon_pack = "fas"
-  name = "Intro to Pharmaceutical Science"
+  name = "Intro to pharmaceutical science"
   description = "1 term"     
  
 [[feature]]
@@ -105,25 +105,25 @@ dv_pdf = "./files/16401702.pdf"
 [[feature]]
   icon = "eye-dropper"
   icon_pack = "fas"
-  name = "Pharmaceutical Analysis"
+  name = "Pharmaceutical analysis"
   description = "theory & lab, 1 term"    
   
 [[feature]]
   icon = "bong"
   icon_pack = "fas"
-  name = "Medicinal Chemistry"
+  name = "Medicinal chemistry"
   description = "theory & lab, 1 term"    
   
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
-  name = "Chromatographic Analysis of drugs"
+  name = "Chromatographic analysis of drugs"
   description = "theory & lab, 1 term"   
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "Spectroscopic Analysis of drugs"
+  name = "Spectroscopic analysis of drugs"
   description = "theory & lab, 1 term"     
 +++
 

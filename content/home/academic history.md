@@ -21,19 +21,19 @@ cv_pdf = "scores/"
 [[feature]]
   icon = "react"
   icon_pack = "fab"
-  name = "Intermolecular/Surface Forces"
+  name = "Intermolecular/surface forces"
   description = """2020 Fall"""
   
 [[feature]]
   icon = "inspire"
   icon_pack = "ai"
-  name = "Advanced BioPhotonics"
+  name = "Advanced biophotonics"
   description = """2020 Fall"""
   
   [[feature]]
   icon = "cubes"
   icon_pack = "fas"
-  name = "Intro to NanoEngineering"
+  name = "Intro to Nanoengineering"
   description = """2020 Fall"""  
 
 [[feature]]
@@ -45,13 +45,13 @@ cv_pdf = "scores/"
    [[feature]]
   icon = "microscope"
   icon_pack = "fas"
-  name = "Nanoscale Characterization"
+  name = "Nanoscale characterization"
   description = "2020 Winter"
   
   [[feature]]
   icon = "codepen"
   icon_pack = "fab"
-  name = "Nanosystem Integration"
+  name = "Nanosystem integration"
   description = "2020 Winter" 
 
 +++
