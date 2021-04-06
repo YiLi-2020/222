@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nanotechnology to build novel [medical devices](#Publications) that can improve therapeutic efficiency and treatment experience.
+I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nanotechnology to build novel [medical devices](#Publication) that can improve therapeutic efficiency and treatment experience.
 
 I am actively contributing to [carrier design](#Research topics), and methods that I implemented are now used for [co-deliver cargos](#Highlights) tunable in hydrophobicity. In my spare time, I enjoy participate in seminars on the practical applications of [LEGO-based](#slider) engineering and programming.
 
