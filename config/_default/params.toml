@@ -112,9 +112,10 @@ directions = "Structural Materials Engineering Building, NanoEngineering Dept."
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "facebook-square", icon_pack = "fab", name = "Meet me in facebook", link = "https://www.facebook.com/profile.php?id=100062288853813"},
+  {icon = "discord", icon_pack = "fab", name = "Meet me in discord", link = "https://discord.gg/df2kg6FU"},
   {icon = "steam-square", icon_pack = "fab", name = "Meet me in steam", link = "https://steamcommunity.com/profiles/76561199019753367/"},
   {icon = "github-square", icon_pack = "fab", name = "Meet me in github", link = "https://github.com/YiLi-2020"},
-  {icon = "discord", icon_pack = "fab", name = "Meet me in discord", link = "https://discord.gg/df2kg6FU"},
+
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
