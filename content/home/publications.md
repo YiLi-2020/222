@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 51  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "from independent & collaborative projects"
+subtitle = ""
 
 # DV location
 cv_pdf = "manuscripts/"
