@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Pharmaceutical Science, [Honors research program] (http://yxbjjh.cpu.edu.cn/)
+  - course: B.S. in Pharmaceutical Science, Honors research program
     institution: China Pharmaceutical University
     year: 2020
   - course: M.S. in NanoEngineering
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nanotechnology to build novel [theranostic systems](#publication) that can improve the therapeutic efficiency and treatment experience.
+I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I focus on the intersection of pharmaceutical science and nanotechnology to build novel [medical devices](#publication) that can improve the therapeutic efficiency and treatment experience.
 
 I am actively contributing to [carrier optimization](#projects), and methods that I implemented are controlling geometric and mechanical properties at better nanoscale precision. In my spare time, I enjoy participate in seminars on the practical applications of [LEGO-based](#slider) engineering and programming.
 
