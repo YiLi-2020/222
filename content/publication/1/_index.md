@@ -1,49 +1,49 @@
 ---
-title: "Construct drug-drug Ns to treat NSCLC"
+title: "Cocrystallization-like strategy for the codelivery of hydrophobic and hydrophilic drugs in a single carrier material-free formulation"
 authors:
-- China Pharmaceutical University
-- Jul.2020-present
-date: "2020-08-15T00:00:00Z"
-doi: ""
+- <u>**Yi Li**</u> 
+- Chao Teng
+- Helena S. Azevedo
+- Lifang Yin*
+- Wei He*
+date: "2021-03-25T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cclet.2021.03.085"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-01T00:00:00Z"
+publishDate: "2021-04-02T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["7"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "[_Chinese Chemical Letters_](https://www.sciencedirect.com/journal/chinese-chemical-letters) · [**Elsevier**](https://www.elsevier.com/)"
+publication_short: "_Chinese Chemical Letters_"
 
-abstract: My graduating design.<br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
+abstract: Codelivery of drugs is a promising strategy against several diseases such as infections and cancer. However, traditional drug carriers are typically characterized by having low drug payload limiting their long-term treatment efficacy. Using nanocrystals of insoluble drug as carriers, a carrier material-free platform was developed previously to deliver a second insoluble drug for codelivery. To extend the concept, we hypothesized, herein, that the platform allows for codelivery of hydrophobic and hydrophilic drugs using a cocrystalization-like strategy. To obtain proof-of-concept, paclitaxel (PTX), an insoluble chemotherapeutic agent, and dichloroacetic acid (DCA), a water-soluble inhibitor of pyruvate dehydrogenase kinase, were utilized as model drugs. PTX-DCA hybrid nanocrystals (PTX-DCA NCs) were prepared by anti-solvent precipitation and characterized. Their in vitro antitumor activity against cancer cells was evaluated. PTX-DCA NCs prepared from the optimized formulation had a diameter of 160 nm and a rod-shape morphology and possessed encapsulated efficacy of approximately 30% for DCA. The use of the hybrid crystals enabled synergy to kill cancer cells, in particular in PTX-resistant cells in a dose-dependent pattern. In conclusion, by using a cocrystalization-like strategy a hydrophilic drug can be formulated into in a drug’s nanocrystals for codelivery..
+
 
 # Summary. An optional shortened abstract.
-summary: My graduating design. <br/>Drug-delivery-drug strategies for MDR reversal and enhanced apoptosis.
+summary: Using nanocrystals of insoluble drug as carriers, a carrier material-free platform was developed previously to deliver a second insoluble drug for codelivery. To extend the concept, we hypothesized, herein, that the platform allows for codelivery of hydrophobic and hydrophilic drugs using a cocrystalization-like strategy. 
 
 tags:
 - Source Themes
 featured: true
 
 # links:
-# - name: ""
-#   url: ""
-url_pdf:
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: 
-url_slides: ''
-url_source: ''
-url_video: ''
+#name: "Cite"
+#url: "https://doi.org/10.1016/j.cclet.2021.03.085"
+url_pdf: https://reader.elsevier.com/reader/sd/pii/S1001841721002394?token=5420E92CBB0F0933443A049CFE164D172E1D485503CB52F16ADAAAFAA0C7ED384DA571CAED61D009E085ECCA7F6B69BA&originRegion=us-east-1&originCreation=20210403072555
+url_project: 'https://ars.els-cdn.com/content/image/1-s2.0-S1001841721002394-mmc1.pdf'
+url_poster: 'https://ars.els-cdn.com/content/image/1-s2.0-S1001841721002394-ga1.jpg'
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -61,6 +61,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-**Independent research experiences solidified my lab skills as a well-prepared independent researcher, and facilitated my personal development as a growing young scientist.**<br/><br/>
-Through clinical investigation, I found that when people are diagnosed with **non-small cell lung cancer (NSCLC)**, they cannot be treated with surgery, so chemotherapy is the only treatment option. Therefore, developing drugs for chemotherapy is much more crucial for NSCLC patients than for those with some other forms of cancer. Also, I found that most clinical trials on chemotherapy failed due to **drug resistance**. Therefore, I am trying to find a solution to **drug resistance** in the lungs and identify methods to increase apoptosis through the induction of **non-lysosomal endocytic pathways**.<br/><br/>
-So far, I have confirmed the ability of nanocrystals to induce apoptosis in both PTX-resistant and normal **A549 cells**, and plan to conduct in vivo studies in a **rat subcutaneous tumor model**.From the full-time research training, I truly experience the movement of scientific research from ideation, to trial and error, to the final scientifically-interesting results. 
