@@ -23,7 +23,7 @@ height = "700px"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
  # overlay_color = "#666"  # An HTML color value.
-  overlay_img = "01.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "09.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   # Call to action button (optional).
@@ -33,15 +33,7 @@ height = "700px"
   # cta_url = "https://sourcethemes.com/academic/"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
-  
-  [[item]]
-  title = "What I usually do in the lab?"
-  content = "Cell assays :)"
-  align = "center"
 
- # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "02.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
  [[item]]
   title = "What else?"
