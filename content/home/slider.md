@@ -45,7 +45,7 @@ height = "700px"
   
  [[item]]
   title = "What else?"
-  content = "Also a big fan of 葛飾北斎 (Katsushika Hokusai, a famous Ukiyoe artist.)"
+  content = "Also a big fan of 葛飾北斎<br/>(Katsushika Hokusai, a famous Ukiyoe artist.)<br/>"
   align = "left"
 
  # overlay_color = "#333"  # An HTML color value.
