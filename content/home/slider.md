@@ -35,31 +35,31 @@ height = "700px"
   # cta_icon = "graduation-cap"
   
   [[item]]
-  title = "Sketch maps"
+  title = ""
   content = ""
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Abstracts.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_img = "02.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
   
  [[item]]
-  title = "Classwork & presentations"
-  content = "Illustrations and TEM pseudocolor graph"
+  title = "What else?"
+  content = "Also a big fan of 葛飾北斎 (Katsushika Hokusai, a famous Ukiyoe artist.)"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Assignments.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_img = "03.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = "Cells Gallery"
-  content = "drawn by Ai, LEGO studio and 3DsMax"
+  title = "And？"
+  content = "And a Kendo player（令和2年劍士）"
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
-  overlay_img = "Cells.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_img = "04.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
   
    [[item]]
   title = "Tumor Treatment Strategies"
