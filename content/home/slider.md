@@ -62,22 +62,40 @@ height = "700px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
   
    [[item]]
-  title = "Tumor Treatment Strategies"
-  content = "Inspired by The Lord of the Rings"
+  title = "Things I enjoy"
+  content = "Life long fasination with piano"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Rings.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_img = "05.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "LEGO Labs"
-  content = ""
+  title = "My dream is?"
+  content = "Publish GREAT cover articles with my LEGOs"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "Lab.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_img = "06.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+  [[item]]
+  title = "So what's my motivation?"
+  content = "Exceed my surgeon parents"
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "08.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+[[item]]
+  title = "!Bonus!"
+  content = "I'm a big GoT fan (for the first 4 seaons)."
+  align = "center"
+
+ # overlay_color = "#333"  # An HTML color value.
+  overlay_img = "07.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
   
  
   
