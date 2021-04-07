@@ -16,9 +16,9 @@ height = "700px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = ""
-  content = "P"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  title = "My lego lab"
+  content = ""
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
