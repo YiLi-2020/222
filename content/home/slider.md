@@ -82,7 +82,7 @@ height = "700px"
 
 [[item]]
   title = "!Bonus!"
-  content = "I'm a big GoT fan (for the first 4 seaons)."
+  content = "I'm a big fan for GoT (for the first 4 seaons)."
   align = "left"
 
  # overlay_color = "#333"  # An HTML color value.
