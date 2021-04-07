@@ -46,7 +46,7 @@ height = "700px"
  [[item]]
   title = "What else?"
   content = "Also a big fan of 葛飾北斎 (Katsushika Hokusai, a famous Ukiyoe artist.)"
-  align = "center"
+  align = "left"
 
  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "03.png"  # Image path relative to your `static/img/` folder.
