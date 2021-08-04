@@ -41,7 +41,7 @@ height = "700px"
   align = "left"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "04.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "03.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
 [[item]]
