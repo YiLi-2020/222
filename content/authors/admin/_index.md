@@ -21,19 +21,20 @@ organizations:
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 
 interests:
+- Biomaterials
 - Drug delivery
-- Biomimetic devices
 - Multidrug resistance
 - Molecular simulations
 
 education:
   courses:
-  - course: B.S. in Pharmaceutical Science, Honors research program
-    institution: China Pharmaceutical University
-    year: 2020
-  - course: M.S. in NanoEngineering
+ - course: M.S. in NanoEngineering
     institution: UC San Deigo
     year: 2022
+ - course: B.S. in Pharmaceutical Science, Honors research program
+    institution: China Pharmaceutical University
+    year: 2020
+
     
 
 # Social/Academic Networking
