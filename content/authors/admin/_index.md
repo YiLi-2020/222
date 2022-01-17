@@ -21,19 +21,19 @@ organizations:
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 
 interests:
-- Biomaterials
 - Drug delivery
+- Biomimetic devices
 - Multidrug resistance
 - Molecular simulations
 
 education:
-- course: M.S. in NanoEngineering
-    institution: UC San Deigo
-    year: 2022
-- course: B.S. in Pharmaceutical Science, Honors research program
+  courses:
+  - course: B.S. in Pharmaceutical Science, Honors research program
     institution: China Pharmaceutical University
     year: 2020
-
+  - course: M.S. in NanoEngineering
+    institution: UC San Deigo
+    year: 2022
     
 
 # Social/Academic Networking
@@ -69,7 +69,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
-- Visitors 
+- Visitors
 ---
 
 I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I am actively contributing to [nano device](#Research topics) design, and methods that I implemented are now used for [co-deliver cargos](#Highlights) tunable in hydrophobicity. In my spare time, I enjoy building [LEGOs](#slider), practicing [kendo](#slider), and playing [piano](#slider).
