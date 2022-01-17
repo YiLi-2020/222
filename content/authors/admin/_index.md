@@ -27,11 +27,10 @@ interests:
 - Molecular simulations
 
 education:
-  courses:
- - course: M.S. in NanoEngineering
+- course: M.S. in NanoEngineering
     institution: UC San Deigo
     year: 2022
- - course: B.S. in Pharmaceutical Science, Honors research program
+- course: B.S. in Pharmaceutical Science, Honors research program
     institution: China Pharmaceutical University
     year: 2020
 
