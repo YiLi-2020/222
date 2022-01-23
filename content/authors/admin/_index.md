@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: M.S. in NanoEngineering,<br>Biomaterials track
+  - course: M.S. in NanoEngineering,<br/>Biomaterials track
     institution: UC San Diego
     year: 2022
   - course: B.S. in Pharmaceutical Science, Honors Research Program
