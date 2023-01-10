@@ -87,19 +87,19 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "yil056@ucsd.edu"
+email = "yili2027@u.northwestern.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "9500 Gilman Dr", city = "La Jolla", region = "CA", postcode = "92093", country = "U.S.", country_code = "US"}
+address = {street = "1915 Maple Ave.", city = "Evanston", region = "IL", postcode = "60201", country = "U.S.", country_code = "US"}
 
 #Geographic coordinates
 #To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.8792", longitude = "-117.2332"}
+coordinates = {latitude = "42.0558264", longitude = "-87.6879987"}
 
 # Directions for visitors to locate you.
-directions = "Structural Materials Engineering Building, NanoEngineering Dept."
+directions = "Silverman Hall, Biomedical Engineering Dept."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
