@@ -21,14 +21,14 @@ organizations:
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 
 interests:
-- Biomaterials
-- Drug delivery
-- Multidrug resistance
-- Molecular simulations
+- Phenolic-mediated assemblies
+- Peptide-based nanostructures
+- Biomimetic materials
+- Photoacoustic imaging
 
 education:
   courses:
-  - course: M.S. in NanoEngineering
+  - course: M.S. in Nanoengineering
     institution: University of California, San Diego
     year: 2022
   - course: B.S. in Pharmaceutical Science
