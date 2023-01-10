@@ -14,8 +14,8 @@ role: A Growing Scientist & LEGO Enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: UC San Deigo
-  url: "https://ne.ucsd.edu/"
+- name: Northwestern University
+  url: "https://www.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
