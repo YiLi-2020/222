@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "[Bioimaginglab](https://jjokerst.eng.ucsd.edu/home)"
+  title = "[Bioimaging Lab](https://jjokerst.eng.ucsd.edu/home)"
   company = "Research associate · Advisor: [Dr.Jesse Jokerst](https://jjokerst.eng.ucsd.edu/members/jesse-jokerst)"
   company_url = ""
   location = "University of Califronia, San Diego"
