@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "Research associate · Advisor: [Dr.Jesse Jokerst](https://jjokerst.eng.ucsd.edu/members/jesse-jokerst)"
   company_url = ""
   location = "University of Califronia, San Diego"
-  date_start = "2020-11-01"
-  date_end = ""
+  date_start = "2021-11-01"
+  date_end = "2022-8-31"
   description = ""
 
 [[experience]]
@@ -32,8 +32,8 @@ date_format = "Jan 2006"
   company = "Research associate · Advisor: [Dr.Liangfang Zhang](https://ne.ucsd.edu/faculty/lzhang.html)"
   company_url = ""
   location = "University of Califronia, San Diego"
-  date_start = "2020-08-01"
-  date_end = ""
+  date_start = "2021-08-01"
+  date_end = "2021-10-31"
   description = ""
 
 [[experience]]
