@@ -21,8 +21,8 @@ organizations:
 #bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 
 interests:
-- Phenolic-mediated assemblies
-- Peptide-based nanostructures
+- Phenolic assemblies
+- Peptide nanostructures
 - Biomimetic materials
 - Photoacoustic imaging
 
