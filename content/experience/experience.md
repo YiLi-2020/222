@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "China Pharmaceutical University"
   date_start = "2017-05-01"
-  date_end = ""
+  date_end = "2021-07-31"
   description = ""
 
 [[experience]]
