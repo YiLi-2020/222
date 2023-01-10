@@ -99,7 +99,7 @@ address = {street = "2170 Campus Dr.", city = "Evanston", region = "IL", postcod
 coordinates = {latitude = "42.0563707", longitude = "-87.676272"}
 
 # Directions for visitors to locate you.
-directions = "Silverman Hall, Biomedical Engineering Dept."
+#directions = "Silverman Hall, Biomedical Engineering Dept."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
