@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yil056@ucsd.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yili2027@u.northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=vWavkyIAAAAJ
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student at [UC San Deigo] (https://www.ucsd.edu), pursuing my vision of addressing rare diseases and unmet medical needs. I am actively contributing to [nano device](#Research topics) design, and methods that I implemented are now used for [co-deliver cargos](#Highlights) tunable in hydrophobicity. In my spare time, I enjoy building [LEGOs](#slider), practicing [kendo](#slider), and playing [piano](#slider).
+I am a graduate student at [Northwestern University] (https://www.mccormick.northwestern.edu/biomedical/), pursuing my vision of addressing rare diseases and unmet medical needs. I am actively contributing to [nano device](#Research topics) design, and methods that I implemented are now used for [co-deliver cargos](#Highlights) tunable in hydrophobicity. In my spare time, I enjoy building [LEGOs](#slider), practicing [kendo](#slider), and playing [piano](#slider).
 
 :ocean: :art: 🤖 :musical_score: :surfer: :movie_camera: :tennis: :basketball: 🎮 :ghost: :ocean:
