@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = ""
 
 [[experience]]
-  title = "[Key Laboratory of Druggability of Biopharmaceutics](http://nano.ucsd.edu/~l7zhang/research.php)"
+  title = "[Nanomedicine Lab](http://nano.ucsd.edu/~l7zhang/research.php)"
   company = "Research associate · Advisor: [Dr.Liangfang Zhang](https://ne.ucsd.edu/faculty/lzhang.html)"
   company_url = ""
   location = "University of Califronia, San Diego"
