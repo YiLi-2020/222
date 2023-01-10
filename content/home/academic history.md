@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Academic history"
-#subtitle = "MS in Nanoengineering @ UC San Diego"
+subtitle = "MS in Nanoengineering @ UC San Diego"
 
 # CV location
 cv_pdf = "scores/"
