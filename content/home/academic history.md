@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Academic history"
-subtitle = "GPA: 3.90 / 4.00"
+#subtitle = "MS in Nanoengineering @ UC San Diego"
 
 # CV location
 cv_pdf = "scores/"
@@ -40,19 +40,19 @@ cv_pdf = "scores/"
   icon = "fill-drip"
   icon_pack = "fas"
   name = "Nanomanufacturing"
-  description = """2020 Winter"""
+  description = """2021 Winter"""
   
    [[feature]]
   icon = "microscope"
   icon_pack = "fas"
   name = "Nanoscale characterization"
-  description = "2020 Winter"
+  description = "2021 Winter"
   
   [[feature]]
   icon = "codepen"
   icon_pack = "fab"
   name = "Nanosystem integration"
-  description = "2020 Winter" 
+  description = "2021 Winter" 
 
 [design.background]
     # Name of image in `assets/media/`.
