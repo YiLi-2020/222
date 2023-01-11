@@ -70,8 +70,9 @@ cv_pdf = "scores/"
   [[feature]]
   icon = "inspire"
   icon_pack = "ai"
-  name = "Advanced biophotonics"
-  description = """Prof. Lingyan Shi"""
+  name = "Biomaterials and Medical Devices"
+  description = """Prof. Ekaterina Evdokimenko"""
+
 [design.background]
     # Name of image in `assets/media/`.
     image = "SD.jpg"
