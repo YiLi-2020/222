@@ -46,7 +46,7 @@ height = "700px"
   
 [[item]]
   title = "And？"
-  content = "And a Kendo player（令和2年劍士）"
+  content = "And a Kendo Samurai, 4 Dan（令和4年劍士）"
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
