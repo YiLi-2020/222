@@ -68,7 +68,7 @@ cv_pdf = "scores/"
   description = """Prof. Lingyan Shi"""
   
   [[feature]]
-  icon = "robot"
+  icon = "dna"
   icon_pack = "fas"
   name = "Biomaterials and medical devices"
   description = """Prof. Ekaterina Evdokimenko"""
