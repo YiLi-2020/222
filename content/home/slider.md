@@ -35,14 +35,14 @@ height = "700px"
   # cta_icon = "graduation-cap"
 
   
- [[item]]
-  title = "What else?"
-  content = "Also a big fan of 葛飾北斎<br/>Katsushika Hokusai, a famous Ukiyoe artist.<br/>"
-  align = "left"
+  # [[item]]
+   # title = "What else?"
+   # content = "Also a big fan of 葛飾北斎<br/>Katsushika Hokusai, a famous Ukiyoe artist.<br/>"
+   # align = "left"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "03.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+   # overlay_img = "03.png"  # Image path relative to your `static/img/` folder.
+   # overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
 [[item]]
   title = "And？"
