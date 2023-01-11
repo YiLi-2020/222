@@ -1,4 +1,5 @@
-
+---
+# Display name
 name: Yi Li
 
 # Username (this should match the folder name)
