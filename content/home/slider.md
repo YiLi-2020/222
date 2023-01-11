@@ -47,7 +47,7 @@ height = "700px"
 [[item]]
   title = "And？"
   content = "A Kendo Samurai, 4 Dan（令和4年劍士）"
-  align = "center"
+  align = "right"
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "014.jpg"  # Image path relative to your `static/img/` folder.
