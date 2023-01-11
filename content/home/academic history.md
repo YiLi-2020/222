@@ -58,7 +58,7 @@ cv_pdf = "scores/"
   [[feature]]
   icon = "dice-d20"
   icon_pack = "fas"
-  name = "Polymer Science and Engineering"
+  name = "Polymer engineering"
   description = "Prof. Shengqiang Cai"
 
 [[feature]]
