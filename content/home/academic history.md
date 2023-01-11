@@ -44,8 +44,8 @@ cv_pdf = "scores/"
   description = """Prof. Shaochen Chen"""
   
  [[feature]]
-  icon = "radar"
-  icon_pack = "fab"
+  icon = "robot"
+  icon_pack = "fas"
   name = "Nanosensors"
   description = """Prof. Joseph Wang"""
   
