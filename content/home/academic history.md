@@ -50,6 +50,7 @@ cv_pdf = "scores/"
   description = """Prof. Joseph Wang"""
   
  [[feature]]
+  icon = "microscope"
   icon_pack = "fas"
   name = "Nanocharacterization"
   description = "Prof. David Fenning"
