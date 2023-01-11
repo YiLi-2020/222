@@ -22,37 +22,37 @@ cv_pdf = "scores/"
   icon = "react"
   icon_pack = "fab"
   name = "Intermolecular forces"
-  description = """2020 Fall"""
+  description = """Prof. Darren Lipomi"""
   
 [[feature]]
   icon = "inspire"
   icon_pack = "ai"
   name = "Advanced biophotonics"
-  description = """2020 Fall"""
+  description = """Prof. Lingyan Shi"""
   
   [[feature]]
   icon = "cubes"
   icon_pack = "fas"
   name = "Intro to Nanoengineering"
-  description = """2020 Fall"""  
+  description = """Prof. Donald Sirbuly"""  
 
 [[feature]]
   icon = "fill-drip"
   icon_pack = "fas"
   name = "Nanomanufacturing"
-  description = """2021 Winter"""
+  description = """Prof. Shaochen Chen"""
   
    [[feature]]
   icon = "microscope"
   icon_pack = "fas"
   name = "Nanocharacterization"
-  description = "2021 Winter"
+  description = "Prof. David Fenning"
   
   [[feature]]
   icon = "codepen"
   icon_pack = "fab"
   name = "Nanosystem integration"
-  description = "2021 Winter" 
+  description = "Prof. Jesse Jokerst" 
 
 [design.background]
     # Name of image in `assets/media/`.
