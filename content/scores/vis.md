@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Summer exchange courses"
+title = "Summer program courses"
 subtitle = "University of StrathClyde"
 
 
@@ -24,8 +24,8 @@ subtitle = "University of StrathClyde"
 [[feature]]
   icon = "inspire"
   icon_pack = "ai"
-  name = "Drug analysis"
-  description = "theory & lab"  
+  name = "Pharmacodynamics"
+  description = "based on in vivo studies"  
   
 [[feature]]
   icon = "child"
