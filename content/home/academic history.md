@@ -44,8 +44,8 @@ cv_pdf = "scores/"
   description = """Prof. Shaochen Chen"""
   
  [[feature]]
-  icon = "inspire"
-  icon_pack = "ai"
+  icon = "microchip"
+  icon_pack = "fas"
   name = "Nanosensors"
   description = """Prof. Joseph Wang"""
   
@@ -54,8 +54,6 @@ cv_pdf = "scores/"
   icon_pack = "fas"
   name = "Nanocharacterization"
   description = "Prof. David Fenning"
-  
-
   
   [[feature]]
   icon = "dice-d20"
