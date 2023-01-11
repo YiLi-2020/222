@@ -65,7 +65,7 @@ height = "700px"
 
 [[item]]
   title = "My dream is"
-  content = "Publish GREAT cover articles with my nano LEGOs!"
+  content = "Publish GREAT cover articles with my nano LEGOs"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
@@ -74,7 +74,7 @@ height = "700px"
 
   [[item]]
   title = "My motivation is"
-  content = "Exceed my surgeon parents!"
+  content = "Exceed my surgeon parents"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
