@@ -31,9 +31,9 @@ education:
   - course: Ph.D. in Biomedical Engineering
     institution: Northwestern University
     year: 2027
-  - course: MS in Physics
-    institution: Durham University/IPPP
-    year: 2009
+  - course: M.S. in Nanoengineering
+    institution: University of California, San Diego
+    year: 2022
   - course: MAst in Applied Mathematics
     institution: Cambridge University/DAMTP
     year: 2007
