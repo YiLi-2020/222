@@ -45,7 +45,7 @@ cv_pdf = "scores/"
   
  [[feature]]
   icon = "microchip"
-  icon_pack = "fas"
+  icon_pack = "far"
   name = "Nanosensors"
   description = """Prof. Joseph Wang"""
   
