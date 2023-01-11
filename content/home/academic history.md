@@ -53,7 +53,24 @@ cv_pdf = "scores/"
   icon_pack = "fab"
   name = "Nanosystem integration"
   description = "Prof. Jesse Jokerst" 
+  
+  [[feature]]
+  icon = "dice-d20"
+  icon_pack = "fas"
+  name = "Polymer Science and Engineering"
+  description = "Prof. Shengqiang Cai"
 
+[[feature]]
+  icon = "inspire"
+  icon_pack = "ai"
+  name = "Advanced biophotonics"
+  description = """Prof. Lingyan Shi"""
+  
+  [[feature]]
+  icon = "inspire"
+  icon_pack = "ai"
+  name = "Advanced biophotonics"
+  description = """Prof. Lingyan Shi"""
 [design.background]
     # Name of image in `assets/media/`.
     image = "SD.jpg"
