@@ -31,7 +31,7 @@ subtitle = "University of StrathClyde"
   icon = "child"
   icon_pack = "fas"
   name = "Pharmacokinetics"
-  description = "based on computer modeling"
+  description = "based on computer modeling methods"
 
 +++
 
