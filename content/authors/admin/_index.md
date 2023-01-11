@@ -18,13 +18,13 @@ organizations:
   url: "https://www.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Flip Tanedo is a professor of particle physics who specializes in the theoretical description of dark matter.
+#bio: My research interests include drug delivery, gene engineering and tumor pharmacology.
 
 interests:
-- Dark Matter
-- Models of new physics
-- Particle astrophysics
-- Equity in science
+- Nanomaterials
+- Nanomedicine
+- Biosensors
+- Baroque polyphony
 
 education:
   courses:
