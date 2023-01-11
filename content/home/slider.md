@@ -45,8 +45,8 @@ height = "700px"
    # overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
 [[item]]
-  title = "And？"
-  content = "A Kendo Samurai, 4 Dan（令和4年劍士）"
+  title = "And"
+  content = "a Kendo Samurai, 令和二年劍士"
   align = "right"
 
   #overlay_color = "#555"  # An HTML color value.
