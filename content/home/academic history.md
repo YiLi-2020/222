@@ -21,7 +21,7 @@ cv_pdf = "scores/"
 [[feature]]
   icon = "react"
   icon_pack = "fab"
-  name = "Intermolecular/surface forces"
+  name = "Intermolecular forces"
   description = """2020 Fall"""
   
 [[feature]]
@@ -45,7 +45,7 @@ cv_pdf = "scores/"
    [[feature]]
   icon = "microscope"
   icon_pack = "fas"
-  name = "Nanoscale characterization"
+  name = "Nanocharacterization"
   description = "2021 Winter"
   
   [[feature]]
