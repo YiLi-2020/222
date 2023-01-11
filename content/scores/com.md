@@ -28,55 +28,55 @@ dv_pdf = "./files/16401702.pdf"
   icon = "atom"
   icon_pack = "fas"
   name = "Advanced physics"
-  description = "theory & lab, 1 yr"  
+  description = "course+lab training, 1 yr"  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Computer science"
-  description = "lab training included, 1 sem (foci: MATLAB)"
+  description = "course+lab training, 1 sem (foci: MATLAB)"
   
 [[feature]]
   icon = "vial"
   icon_pack = "fas"
   name = "Inorganic chemistry"
-  description = "theory & lab, 1 yr"
+  description = "course+lab training, 1 yr"
   
 [[feature]]
   icon = "balance-scale"
   icon_pack = "fas"
   name = "Analytical chemistry"
-  description = "theory & lab, 1 yr"  
+  description = "course+lab training, 1 yr"  
   
 [[feature]]
   icon = "dice-d20"
   icon_pack = "fas"
   name = "Organic chemistry"
-  description = "theory & lab, 1 yr"
+  description = "course+lab training, 1 yr"
   
 [[feature]]
   icon = "temperature-high"
   icon_pack = "fas"
   name = "Physical chemistry"
-  description = "theory & lab, 1 yr"  
+  description = "course+lab training, 1 yr"  
   
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Anatomy and physiology"
-  description = "theory & lab, 1 sem"  
+  description = "course+lab training, 1 sem"  
   
 [[feature]]
   icon = "biohazard"
   icon_pack = "fas"
   name = "Microbiology"
-  description = "theory & lab, 1 sem"    
+  description = "course+lab training, 1 sem"    
   
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Biochemistry & molecular biology"
-  description = "theory & lab, 1 sem"  
+  description = "course+lab training, 1 sem"  
  
 [[feature]]
   icon = "chart-pie"
@@ -94,37 +94,37 @@ dv_pdf = "./files/16401702.pdf"
   icon = "chart-line"
   icon_pack = "fas"
   name = "Pharmacology"
-  description = "theory & lab, 1 sem"   
+  description = "course+lab training, 1 sem"   
 
 [[feature]]
   icon = "pills"
   icon_pack = "fas"
   name = "Pharmaceutics"
-  description = "theory & lab, 1 sem"  
+  description = "course+lab training, 1 sem"  
   
 [[feature]]
   icon = "eye-dropper"
   icon_pack = "fas"
   name = "Pharmaceutical analysis"
-  description = "theory & lab, 1 sem"    
+  description = "course+lab training, 1 sem"    
   
 [[feature]]
   icon = "bong"
   icon_pack = "fas"
   name = "Medicinal chemistry"
-  description = "theory & lab, 1 sem"    
+  description = "course+lab training, 1 sem"    
   
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Chromatographic analysis of drugs"
-  description = "theory & lab, 1 sem"   
+  description = "course+lab training, 1 sem"   
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Spectroscopic analysis of drugs"
-  description = "theory & lab, 1 sem"     
+  description = "course+lab training, 1 sem"     
 +++
 
 
