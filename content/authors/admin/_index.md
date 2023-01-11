@@ -34,12 +34,12 @@ education:
   - course: M.S. in Nanoengineering
     institution: University of California, San Diego
     year: 2022
-  - course: MAst in Applied Mathematics
-    institution: Cambridge University/DAMTP
-    year: 2007
-  - course: BS in Physics and Mathematics
-    institution: Stanford University
-    year: 2006
+  - course: B.A. in Piano Performance
+    institution: Shanghai Conservatory of Music
+    year: 2021
+  - course: B.S. in Pharmaceutical Science
+    institution: China Pharmaceutical University
+    year: 2020
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
