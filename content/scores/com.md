@@ -105,7 +105,7 @@ dv_pdf = "./files/16401702.pdf"
 [[feature]]
   icon = "eye-dropper"
   icon_pack = "fas"
-  name = "Pharmaceutical analysis"
+  name = "Medicine analysis"
   description = "course+lab training, 1 sem"    
   
 [[feature]]
