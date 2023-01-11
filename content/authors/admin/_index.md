@@ -40,6 +40,7 @@ education:
   - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
     year: 2020
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
