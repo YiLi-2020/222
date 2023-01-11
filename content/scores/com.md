@@ -21,110 +21,110 @@ dv_pdf = "./files/16401702.pdf"
 [[feature]]
   icon = "scirate"
   icon_pack = "ai"
-  name = "Advanced mathematics I&II"
+  name = "Advanced mathematics"
   description = "1 yr"
   
 [[feature]]
   icon = "atom"
   icon_pack = "fas"
-  name = "Advanced physics I&II"
+  name = "Advanced physics"
   description = "theory & lab, 1 yr"  
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "Intro to computer science"
-  description = "theory & lab, 1 term (foci: MATLAB)"
+  name = "Computer science"
+  description = "theory & lab, 1 sem (foci: MATLAB)"
   
 [[feature]]
   icon = "vial"
   icon_pack = "fas"
   name = "Inorganic chemistry"
-  description = "theory & lab, 1 term"
+  description = "theory & lab, 1 sem"
   
 [[feature]]
   icon = "balance-scale"
   icon_pack = "fas"
-  name = "Analytical chemistry I&II"
+  name = "Analytical chemistry"
   description = "theory & lab, 1 yr"  
   
 [[feature]]
   icon = "dice-d20"
   icon_pack = "fas"
-  name = "Organic chemistry I&II"
+  name = "Organic chemistry"
   description = "theory & lab, 1 yr"
   
 [[feature]]
   icon = "temperature-high"
   icon_pack = "fas"
-  name = "Physical chemistry I&II"
-  description = "theory & lab, 1 term"  
+  name = "Physical chemistry"
+  description = "theory & lab, 1 yr"  
   
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Anatomy and physiology"
-  description = "theory & lab, 1 term"  
+  description = "theory & lab, 1 sem"  
   
 [[feature]]
   icon = "biohazard"
   icon_pack = "fas"
-  name = "microbiology"
-  description = "theory & lab, 1 term"    
+  name = "Microbiology"
+  description = "theory & lab, 1 sem"    
   
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
-  name = "Biochemistry & nolecular biology"
-  description = "theory & lab, 1 term"  
+  name = "Biochemistry & molecular biology"
+  description = "theory & lab, 1 sem"  
  
 [[feature]]
   icon = "chart-pie"
   icon_pack = "fas"
-  name = "Mathematical statistics and medical statistical analysis"
-  description = "1 term"      
+  name = "Statistics in medical research"
+  description = "1 sem"      
   
 [[feature]]
   icon = "prescription-bottle-alt"
   icon_pack = "fas"
   name = "Intro to pharmaceutical science"
-  description = "1 term"     
+  description = "1 sem"     
  
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Pharmacology"
-  description = "theory & lab, 1 term"   
+  description = "theory & lab, 1 sem"   
 
 [[feature]]
   icon = "pills"
   icon_pack = "fas"
   name = "Pharmaceutics"
-  description = "theory & lab, 1 term"  
+  description = "theory & lab, 1 sem"  
   
 [[feature]]
   icon = "eye-dropper"
   icon_pack = "fas"
   name = "Pharmaceutical analysis"
-  description = "theory & lab, 1 term"    
+  description = "theory & lab, 1 sem"    
   
 [[feature]]
   icon = "bong"
   icon_pack = "fas"
   name = "Medicinal chemistry"
-  description = "theory & lab, 1 term"    
+  description = "theory & lab, 1 sem"    
   
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Chromatographic analysis of drugs"
-  description = "theory & lab, 1 term"   
+  description = "theory & lab, 1 sem"   
   
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Spectroscopic analysis of drugs"
-  description = "theory & lab, 1 term"     
+  description = "theory & lab, 1 sem"     
 +++
 
 
