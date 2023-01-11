@@ -55,7 +55,7 @@ height = "700px"
   
   
    [[item]]
-  title = "My favorite"
+  title = "My favorite thing"
   content = "is to explore the world with my shark"
   align = "center"
 
