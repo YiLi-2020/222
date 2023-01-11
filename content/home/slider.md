@@ -35,15 +35,6 @@ height = "700px"
   # cta_icon = "graduation-cap"
 
   
-  [[item]]
-    title = "And"
-    content = "an artist with life long facination with piano"
-    align = "left"
-
-  overlay_color = "#333"  # An HTML color value.
-    overlay_img = "015.jpg"  # Image path relative to your `static/img/` folder.
-    overlay_filter = 0.1  # Darken the image. Value in range 0-1.
-  
 [[item]]
   title = "Also"
   content = "a kendo samurai, 令和二年劍士"
@@ -52,6 +43,16 @@ height = "700px"
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "014.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  
+ [[item]]
+   title = "And"
+   content = "an artist with life long facination with piano"
+   align = "left"
+
+   overlay_color = "#333"  # An HTML color value.
+   overlay_img = "015.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  
   
    [[item]]
   title = "Thing I enjoy"
