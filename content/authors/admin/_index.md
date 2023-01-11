@@ -28,18 +28,18 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Biomedical Engineering
-    institution: Northwestern University
-    year: 2027
- - course: M.S. in Nanoengineering
-    institution: University of California, San Diego
-    year: 2022
-  - course: B.A. in Piano Performance
-    institution: Shanghai Conservatory of Music
-    year: 2021
-  - course: B.S. in Pharmaceutical Science
-    institution: China Pharmaceutical University
-    year: 2020
+  - course: PhD, MS in Physics
+    institution: Cornell University
+    year: 2013
+  - course: MS in Physics
+    institution: Durham University/IPPP
+    year: 2009
+  - course: MAst in Applied Mathematics
+    institution: Cambridge University/DAMTP
+    year: 2007
+  - course: BS in Physics and Mathematics
+    institution: Stanford University
+    year: 2006
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
