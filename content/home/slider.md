@@ -47,7 +47,7 @@ height = "700px"
  [[item]]
    title = "Also"
    content = "an artist with life long facination with piano"
-   align = "left"
+   align = "right"
 
    overlay_color = "#333"  # An HTML color value.
    overlay_img = "015.jpg"  # Image path relative to your `static/img/` folder.
@@ -55,7 +55,7 @@ height = "700px"
   
   
    [[item]]
-  title = "Thing I enjoy"
+  title = "My favorite"
   content = "is to explore the world with my shark"
   align = "center"
 
