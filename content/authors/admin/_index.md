@@ -78,6 +78,4 @@ user_groups:
 I am a graduate student at [Northwestern University] (https://www.mccormick.northwestern.edu/biomedical/), exploring the intersection of nanotechnology and pharmaceutical science. I am actively contributing to [nano device](#Research topics) design, and methods that I implemented are now used for 1). [integrating](#Highlights) plasmonic and photosensitive materials in single system and 2). [co-delivering](#Highlights) cargos that vary in hydrophobicity. In my spare time, I enjoy building [LEGOs](#slider), practicing [kendo](#slider), and playing [piano](#slider).
 
 
-#I am a graduate student at [Northwestern University] (https://www.mccormick.northwestern.edu/biomedical/), pursuing my vision of addressing rare diseases #and unmet medical needs. I am actively contributing to [nano device](#Research topics) design, and methods that I implemented are now used for [co-deliver #cargos](#Highlights) tunable in hydrophobicity. In my spare time, I enjoy building [LEGOs](#slider), practicing [kendo](#slider), and playing [piano]#(#slider).
-
 :ocean: :art: 🤖 :musical_score: :surfer: :movie_camera: :tennis: :basketball: 🎮 :ghost: :ocean:
