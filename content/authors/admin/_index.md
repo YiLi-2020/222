@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD, MS in Physics
     institution: Cornell University
-    year: 2013
+    year: 2013 
   - course: MS in Physics
     institution: Durham University/IPPP
     year: 2009
