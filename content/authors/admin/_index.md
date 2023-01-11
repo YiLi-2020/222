@@ -82,5 +82,4 @@ I am a graduate student at [Northwestern University] (https://www.mccormick.nort
 In my spare time, I enjoy building [LEGOs 🧱](#slider), practicing [kendo 🥷](#slider), and playing [piano 🎹](#slider). 
 
 
-:ocean: :art: 🤖 :musical_score: :surfer: :movie_camera: :tennis: :basketball: 🎮 :ghost: :ocean:
-🇨🇳 🇺🇸 🇯🇵 🇩🇪 | 🎹 🎻 🎸 | 🏊 ⛷️ 🛹 🏀
+:ocean: :art: 🤖 :musical_score: :surfer: :movie_camera: ⛩️ :tennis: :basketball: ⛷️ 🎮 :ghost: 🏊 :ocean:
