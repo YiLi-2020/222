@@ -54,8 +54,8 @@ height = "700px"
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
    [[item]]
-  title = "Things I enjoy"
-  content = "Life long fasination with piano"
+  title = "Thing I enjoy"
+  content = "is to explore the world with my shark"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
