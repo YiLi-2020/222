@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Compulsory courses"
-subtitle = "GPA: 3.73 / 4.00"
+title = "Core courses"
+subtitle = ""
 
 # DV location
 dv_pdf = "./files/16401702.pdf"
@@ -34,13 +34,13 @@ dv_pdf = "./files/16401702.pdf"
   icon = "laptop-code"
   icon_pack = "fas"
   name = "Computer science"
-  description = "theory & lab, 1 sem (foci: MATLAB)"
+  description = "lab training included, 1 sem (foci: MATLAB)"
   
 [[feature]]
   icon = "vial"
   icon_pack = "fas"
   name = "Inorganic chemistry"
-  description = "theory & lab, 1 sem"
+  description = "theory & lab, 1 yr"
   
 [[feature]]
   icon = "balance-scale"
