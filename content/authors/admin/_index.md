@@ -31,6 +31,9 @@ education:
   - course: M.S. in Nanoengineering
     institution: University of California, San Diego
     year: 2022
+  - course: B.A. in Piano Performance
+    institution: Shanghai Conservatory of Music
+    year: 2021
   - course: B.S. in Pharmaceutical Science
     institution: China Pharmaceutical University
     year: 2020
