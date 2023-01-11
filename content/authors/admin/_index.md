@@ -58,7 +58,7 @@ social:
   #link: https://github.com/YiLi-2020
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/li-yi-89b201190/
+  link: https://www.linkedin.com/in/yi-li-48a36b253/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
