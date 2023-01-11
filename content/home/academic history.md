@@ -45,7 +45,7 @@ cv_pdf = "scores/"
   
  [[feature]]
   icon = "radar"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Nanosensors"
   description = """Prof. Joseph Wang"""
   
@@ -68,8 +68,8 @@ cv_pdf = "scores/"
   description = """Prof. Lingyan Shi"""
   
   [[feature]]
-  icon = "inspire"
-  icon_pack = "ai"
+  icon = "robot"
+  icon_pack = "fas"
   name = "Biomaterials and medical devices"
   description = """Prof. Ekaterina Evdokimenko"""
 
