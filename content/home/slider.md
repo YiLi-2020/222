@@ -16,7 +16,7 @@ height = "700px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Who am I?"
+  title = "Who am I"
   content = "A biopharmaceutics researcher using nano LEGOs"
   align = "center"  # Choose `center`, `left`, or `right`.
 
@@ -63,8 +63,8 @@ height = "700px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "My dream is?"
-  content = "Publish GREAT cover articles with my LEGOs!"
+  title = "My dream is"
+  content = "Publish GREAT cover articles with my nano LEGOs!"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
@@ -72,8 +72,8 @@ height = "700px"
   overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
   [[item]]
-  title = "So what's my motivation?"
-  content = "Exceed my surgeon parents"
+  title = "My motivation is"
+  content = "Exceed my surgeon parents!"
   align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
