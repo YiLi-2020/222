@@ -18,23 +18,24 @@ cv_pdf = "scores/"
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+
+[[feature]]
+  icon = "cubes"
+  icon_pack = "fas"
+  name = "Intro to Nanoengineering"
+  description = """Prof. Donald Sirbuly"""  
+
+[[feature]]
+  icon = "codepen"
+  icon_pack = "fab"
+  name = "Nanosystem integration"
+  description = "Prof. Jesse Jokerst" 
+
 [[feature]]
   icon = "react"
   icon_pack = "fab"
   name = "Intermolecular forces"
   description = """Prof. Darren Lipomi"""
-  
-[[feature]]
-  icon = "inspire"
-  icon_pack = "ai"
-  name = "Advanced biophotonics"
-  description = """Prof. Lingyan Shi"""
-  
-  [[feature]]
-  icon = "cubes"
-  icon_pack = "fas"
-  name = "Intro to Nanoengineering"
-  description = """Prof. Donald Sirbuly"""  
 
 [[feature]]
   icon = "fill-drip"
@@ -42,17 +43,19 @@ cv_pdf = "scores/"
   name = "Nanomanufacturing"
   description = """Prof. Shaochen Chen"""
   
-   [[feature]]
+ [[feature]]
+  icon = "inspire"
+  icon_pack = "ai"
+  name = "Nanosensors"
+  description = """Prof. Joseph Wang"""
+  
+ [[feature]]
   icon = "microscope"
   icon_pack = "fas"
   name = "Nanocharacterization"
   description = "Prof. David Fenning"
   
-  [[feature]]
-  icon = "codepen"
-  icon_pack = "fab"
-  name = "Nanosystem integration"
-  description = "Prof. Jesse Jokerst" 
+
   
   [[feature]]
   icon = "dice-d20"
