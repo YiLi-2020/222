@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: A Growing Scientist & LEGO Enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: UCR Particle Theory
-  url: "http://theory.ucr.edu/"
+- name: Northwestern University
+  url: "https://www.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Flip Tanedo is a professor of particle physics who specializes in the theoretical description of dark matter.
