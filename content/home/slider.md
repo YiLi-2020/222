@@ -36,7 +36,7 @@ height = "700px"
 
   
 [[item]]
-  title = "Also"
+  title = "And"
   content = "a kendo samurai, 令和二年劍士"
   align = "right"
 
@@ -45,7 +45,7 @@ height = "700px"
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
  [[item]]
-   title = "And"
+   title = "Also"
    content = "an artist with life long facination with piano"
    align = "left"
 
