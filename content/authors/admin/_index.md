@@ -49,13 +49,13 @@ social:
   link: 'mailto:yili2027@u.northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=zh-CN&user=vWavkyIAAAAJ
-- icon: pubmed
-  icon_pack: ai
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31249880/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/YiLi-2020
+  link: https://scholar.google.com/citations?hl=en&user=vWavkyIAAAAJ
+#- icon: pubmed
+  #icon_pack: ai
+  #link: https://www.ncbi.nlm.nih.gov/pubmed/31249880/
+#- icon: github
+  #icon_pack: fab
+  #link: https://github.com/YiLi-2020
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/li-yi-89b201190/
