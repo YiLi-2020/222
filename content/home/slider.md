@@ -17,7 +17,7 @@ height = "700px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Who am I"
-  content = "A biopharmaceutics researcher using nano LEGOs"
+  content = "a biomedical engineerer playing with nano LEGOs"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
