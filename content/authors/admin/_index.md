@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: PhD, MS in Physics
-    institution: Cornell University
-    year: 2013
+  - course: Ph.D. in Biomedical Engineering
+    institution: Northwestern University
+    year: 2027
   - course: MS in Physics
     institution: Durham University/IPPP
     year: 2009
