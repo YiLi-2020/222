@@ -58,7 +58,7 @@ cv_pdf = "scores/"
   [[feature]]
   icon = "dice-d20"
   icon_pack = "fas"
-  name = "Polymer engineering"
+  name = "Polymer science and engineering"
   description = "Prof. Shengqiang Cai"
 
 [[feature]]
@@ -70,7 +70,7 @@ cv_pdf = "scores/"
   [[feature]]
   icon = "inspire"
   icon_pack = "ai"
-  name = "Biomaterials and Medical Devices"
+  name = "Biomaterials and medical devices"
   description = """Prof. Ekaterina Evdokimenko"""
 
 [design.background]
