@@ -30,7 +30,7 @@ summary: Using nanocrystals of insoluble drug as carriers, a carrier material-fr
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 #name: "Cite"
