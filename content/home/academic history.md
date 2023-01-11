@@ -44,7 +44,7 @@ cv_pdf = "scores/"
   description = """Prof. Shaochen Chen"""
   
  [[feature]]
-  icon = "microchip-ai"
+  icon = "microchip"
   icon_pack = "fas"
   name = "Nanosensors"
   description = """Prof. Joseph Wang"""
