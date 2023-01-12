@@ -1,5 +1,5 @@
 ---
-title: "Phenolic-mediated assemblies"
+title: "Material Bioperformance study"
 authors:
 - Jokerst Lab @ UC San Diego
 - Oct.2021-Aug.2022
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou
+abstract: 🦠 Confocal microscope img observing intracellular photothermal transduction in A549 cells. <br/>🧪 Exp. ran by Yi, mentored by Dr Yong Cheng
 
 # Summary. An optional shortened abstract.
-summary: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou
+summary: 🦠 Confocal microscope img observing intracellular photothermal transduction in A549 cells. <br/>🧪 Exp. ran by Yi, mentored by Dr Yong Cheng
 
 tags:
 - Summary
@@ -65,13 +65,13 @@ slides: example
 <br/>➡️ Engineered an Au-PDA core-shell system, with tunable size, via supramolecular template-assisted assembly.
 <br/>➡️ Characterized the nanocapsules using UV-vis spectroscopy, TEM, and SEM.
 <br/>➡️ Designed and synthesized an αvβ3-targeting peptide and assembled peptide nanocapsules via Michael addition.
-<br/>🌟 Achievement: [First-suthor manuscript in preparation, aiming at Angewandte Chemie](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ)
+<br/>🌟 Achievement: [First-author manuscript in preparation, aiming at Angewandte Chemie](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ)
 
 ### prj2 Fluorescent poly-benzene-1,4-dithiol (pBDT) microparticle (Mentored by [Dr Jiajing Zhou](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ))
 <br/>➡️ Engineered pBDT nanoparticles and microparticles with tunable morphology by using different sovents.
 <br/>➡️ Observed solvent-independent fluorescence of pBDT and collected its spectrum using CLSM.
 <br/>➡️ Explored in vitro fluorescence in macrophage.
-<br/>🌟 Achievement: [Co-first-suthor manuscript in preparation, aiming at Nature communication](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ)
+<br/>🌟 Achievement: [Co-first-author manuscript in preparation, aiming at Nature communication](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ)
 
 ### prj3 Biodegradable calcium phosphate nanoparticles for inducing cyto-osmotic pressure changes (Mentored by [Tengyu He, Ph.D. candidate](https://scholar.google.com/citations?hl=en&user=o5QsfzwAAAAJ))
 <br/>➡️ Used polyethylenimine as a patterning agent for Ca/P nanoparticles, via a precipitation method.
