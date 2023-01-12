@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: A Growing Scientist & LEGO Enthusiast
+role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
+- name: Biomedical Engineering | Northwestern University
   url: "https://www.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Biomedical Engineering
-    institution: Northwestern University
-    year: 2027
+ # - course: Ph.D. in Biomedical Engineering
+  #  institution: Northwestern University
+   # year: 2027
   - course: M.S. in Nanoengineering
     institution: University of California, San Diego
     year: 2022
