@@ -1,9 +1,9 @@
 ---
-title: "Design drug-mediated delivery of miRNA"
+title: "Phenolic-mediated assemblies"
 authors:
-- China Pharmaceutical University
-- Oct.2017-Apr.2018
-date: "2019-05-15T00:00:00Z"
+- Jokerst Lab @ UC San Diego
+- Oct.2021-Aug.2022
+date: "2021-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance. 
+abstract: SEM of poly-benzene-1,4-dithiol (pBDT) nanourchins. synthesized & imaged by Yi, instructed by Dr Jiajing Zhou.
 
 # Summary. An optional shortened abstract.
-summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance.
+summary: SEM of poly-benzene-1,4-dithiol (pBDT) nanourchins. synthesized & imaged by Yi, instructed by Dr Jiajing Zhou.
 
 tags:
 - Summary
@@ -61,6 +61,12 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### Working on this multidisciplinary project gave me an insight into gene delivery and strengthened my problem-solving abilities for further research work. More importantly, I learned to apply my knowledge and previous experience to empirical analysis and real-world problems.<br/>
-In my sophomore year, I started to focus on diseases besides cancer, like **pulmonary hypertension (PAH)**. We set a team of five undergraduates from different majors and carried out a project for novel chemotherapy for PAH. <br/>
-As the team leader, I contributed to addressing several critical issues, including **applying for funding from companies**, **contacting faculty members for guidance**, and **designing technical routes**. Besides, to make progress efficiently, I utilized what I learned in my last project on **caveolae-mediated endocytosis** and applied my knowledge in **traditional Chinese medicine**. Integrating this knowledge, we constructed a gene-drug co-delivery platform and confirmed its efficacy in animals. 
+### Targeted responsive Au-polydopamine nanocapsules for cancer therapy
+• Engineered an Au-PDA core-shell system, with tunable size, via supramolecular template-assisted assembly.
+• Characterized the nanocapsules using UV-vis spectroscopy, TEM, and SEM.
+• Designed and synthesized an αvβ3-targeting peptide and assembled peptide nanocapsules via Michael addition.
+
+Biodegradable calcium phosphate nanoparticles for inducing cyto-osmotic pressure changes
+• Used polyethylenimine as a patterning agent for Ca/P nanoparticles, via a precipitation method.
+• Analyzed element compositions of Ca/P nanoparticles using ICP-MS and EDX.
+• Studied the nanoparticles’ in vitro release profile via a dynamic flow method to reduce particle accumulation. 
