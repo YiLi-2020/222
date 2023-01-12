@@ -25,7 +25,7 @@ abstract: Used famous traditional Chinese medicine Baicalein to reduce pulmonary
 summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance.
 
 tags:
-- Drug Delivery
+- Summary
 featured: false
 
 # links:
