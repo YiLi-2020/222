@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: SEM of poly-benzene-1,4-dithiol (pBDT) nanourchins. Experiment ran by Yi, mentored by Dr Jiajing Zhou.
+abstract: SEM of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>Experiment ran by Yi, mentored by Dr Jiajing Zhou.
 
 # Summary. An optional shortened abstract.
-summary: SEM of poly-benzene-1,4-dithiol (pBDT) nanourchins. synthesized & imaged by Yi, instructed by Dr Jiajing Zhou.
+summary: SEM of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>Experiment ran by Yi, mentored by Dr Jiajing Zhou.
 
 tags:
 - Summary
