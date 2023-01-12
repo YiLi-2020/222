@@ -36,8 +36,8 @@ featured: True
 #name: "Cite"
 #url: "https://doi.org/10.1016/j.cclet.2021.03.085"
 url_pdf: https://reader.elsevier.com/reader/sd/pii/S1001841721002394?token=5420E92CBB0F0933443A049CFE164D172E1D485503CB52F16ADAAAFAA0C7ED384DA571CAED61D009E085ECCA7F6B69BA&originRegion=us-east-1&originCreation=20210403072555
-url_project: 'https://ars.els-cdn.com/content/image/1-s2.0-S1001841721002394-mmc1.pdf'
-url_poster: 'https://ars.els-cdn.com/content/image/1-s2.0-S1001841721002394-ga1.jpg'
+#url_project: 'https://ars.els-cdn.com/content/image/1-s2.0-S1001841721002394-mmc1.pdf'
+#url_poster: 'https://ars.els-cdn.com/content/image/1-s2.0-S1001841721002394-ga1.jpg'
 
 
 # Featured image
