@@ -62,16 +62,16 @@ projects: []
 slides: example
 ---
 ### prj1 Targeted responsive Au-polydopamine nanocapsules for cancer therapy
-• Engineered an Au-PDA core-shell system, with tunable size, via supramolecular template-assisted assembly.
-• Characterized the nanocapsules using UV-vis spectroscopy, TEM, and SEM.
-• Designed and synthesized an αvβ3-targeting peptide and assembled peptide nanocapsules via Michael addition.
+<br/>• Engineered an Au-PDA core-shell system, with tunable size, via supramolecular template-assisted assembly.
+<br/>• Characterized the nanocapsules using UV-vis spectroscopy, TEM, and SEM.
+<br/>• Designed and synthesized an αvβ3-targeting peptide and assembled peptide nanocapsules via Michael addition.
 
 ### prj2 Fluorescent poly-benzene-1,4-dithiol (pBDT) microparticle
-• Engineered pBDT nanoparticles and microparticles with tunable morphology by using different sovents.
-• Observed solvent-independent fluorescence of pBDT and collected its spectrum using CLSM.
-• Explored in vitro fluorescence in macrophage.
+<br/>• Engineered pBDT nanoparticles and microparticles with tunable morphology by using different sovents.
+<br/>• Observed solvent-independent fluorescence of pBDT and collected its spectrum using CLSM.
+<br/>• Explored in vitro fluorescence in macrophage.
 
 ### prj3 Biodegradable calcium phosphate nanoparticles for inducing cyto-osmotic pressure changes
-• Used polyethylenimine as a patterning agent for Ca/P nanoparticles, via a precipitation method.
-• Analyzed element compositions of Ca/P nanoparticles using ICP-MS and EDX.
-• Studied the nanoparticles’ in vitro release profile via a dynamic flow method to reduce particle accumulation. 
+<br/>• Used polyethylenimine as a patterning agent for Ca/P nanoparticles, via a precipitation method.
+<br/>• Analyzed element compositions of Ca/P nanoparticles using ICP-MS and EDX.
+<br/>• Studied the nanoparticles’ in vitro release profile via a dynamic flow method to reduce particle accumulation. 
