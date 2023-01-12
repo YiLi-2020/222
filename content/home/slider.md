@@ -16,8 +16,8 @@ height = "700px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Who am I"
-  content = "a biomedical engineerer playing with nano LEGOs"
+  title = "About me"
+  content = "a growing scientist playing with nano LEGOs"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -54,14 +54,14 @@ height = "700px"
    overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
   
-   [[item]]
-  title = "My favorite thing"
-  content = "is to explore the world with my shark"
-  align = "center"
+   #[[item]]
+  #title = "My favorite thing"
+  #content = "is to explore the world with my shark"
+  #align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "05.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  #overlay_img = "05.png"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "My dream is"
@@ -70,25 +70,25 @@ height = "700px"
 
  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "06.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
-
-  [[item]]
-  title = "My motivation is"
-  content = "Exceed my surgeon parents"
-  align = "center"
-
- # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "08.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "!Bonus!"
-  content = "I'm a big fan for GoT (for the first 4 seaons)."
-  align = "left"
+ # [[item]]
+ # title = "My motivation is"
+ # content = "Exceed my surgeon parents"
+ # align = "center"
 
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "07.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+ # overlay_img = "08.png"  # Image path relative to your `static/img/` folder.
+  #overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+
+#[[item]]
+ # title = "!Bonus!"
+ # content = "I'm a big fan for GoT (for the first 4 seaons)."
+ # align = "left"
+
+ # overlay_color = "#333"  # An HTML color value.
+ # overlay_img = "07.png"  # Image path relative to your `static/img/` folder.
+ # overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
  
   
