@@ -77,7 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate student at [Northwestern University] (https://www.mccormick.northwestern.edu/biomedical/), exploring the intersection of nanotechnology and pharmaceutical science. I am actively contributing to [nanomedicine](#Research topics) design, and a [co-crystallization strategy](#Highlights) that I implemented are now used for co-delivering cargos that vary in hydrophobicity. Besides covalent chemistry, I also engineered nano yolk-shell structures assembled by [supramolecular interaction] (#Research topics), aiming at tuning their nanomechanical properties.
+I am a graduate student at [Northwestern University] (https://www.mccormick.northwestern.edu/biomedical/), exploring the intersection of nanotechnology and pharmaceutical science. I am actively contributing to [nanomedicine](#Research topics) design, and a [co-crystallization strategy](#Highlights) that I implemented are now used for co-delivering cargos that vary in hydrophobicity. Besides covalent chemistry, I engineered yolk-shell structures by [supramolecular interaction] (#Research topics), aiming at tuning their nanomechanical properties.
 
 Before joining Northwestern, I enjoyed sunny days at [UC San Diego] ([https://www.mccormick.northwestern.edu/biomedical/](https://ne.ucsd.edu/)), where I focus on [phenolic-mediated assemblies] (#Highlights), [FRET-based nanosensors] (#Highlights), and [functional polypeptide structures] (#Highlights), under the supervision of [Prof. Jesse Jokerst] (https://jjokerst.eng.ucsd.edu/home). We use these materials to improve photoacoustic contrast, photothermal transduction and drug delivery.
 
