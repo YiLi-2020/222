@@ -1,5 +1,5 @@
 ---
-title: "In vtro photodynamics"
+title: "Biomedical Applicatons"
 authors:
 - Jokerst Lab @ UC San Diego
 - Oct.2021-Aug.2022
