@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>(Exp. ran by Yi, mentored by Dr Jiajing Zhou)
+abstract: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou
 
 # Summary. An optional shortened abstract.
-summary: Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>(Exp. ran by Yi, mentored by Dr Jiajing Zhou)
+summary: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou
 
 tags:
 - Summary
