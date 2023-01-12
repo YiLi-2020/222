@@ -62,16 +62,16 @@ projects: []
 slides: example
 ---
 ### prj 4. Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing (Mentored by Dr Zhicheng Jin)
-<br/>* Achievement: Jin, Z.‡, _Li, Y.‡,_ Li, K.‡, Zhou, J., Yeung, J., Ling, C., Yim, W., He, T., Cheng, Y., Xu, M. and Creyer, M.N., 2022. Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing. Angewandte Chemie.
+<br/>🌟 Achievement: Jin, Z.‡, <u>**Li, Y.‡,**<u> Li, K.‡, Zhou, J., Yeung, J., Ling, C., Yim, W., He, T., Cheng, Y., Xu, M. and Creyer, M.N., 2022. Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing. Angewandte Chemie.
 
 ### prj 5. Spacer Matters: All-Peptide-Based Ligand for Promoting Interfacial Proteolysis and Plasmonic Coupling (Mentored by Dr Zhicheng Jin)
-<br/>* Achievement: Jin, Z., Ling, C., _Li, Y.,_ Zhou, J., Li, K., Yim, W., Yeung, J., Chang, Y.C., He, T., Cheng, Y. and Fajtová, P., 2022. Spacer Matters: All-Peptide-Based Ligand for Promoting Interfacial Proteolysis and Plasmonic Coupling. Nano Letters, 22(22), pp.8932-8940.
+<br/>🌟 Achievement: Jin, Z., Ling, C., <u>**Li, Y.,**<u> Zhou, J., Li, K., Yim, W., Yeung, J., Chang, Y.C., He, T., Cheng, Y. and Fajtová, P., 2022. Spacer Matters: All-Peptide-Based Ligand for Promoting Interfacial Proteolysis and Plasmonic Coupling. Nano Letters, 22(22), pp.8932-8940.
 
 ### prj 6. A peptidic sulfhydryl for interfacing nanocrystals to sense SARS-CoV-2 protease (Mentored by Dr Zhicheng Jin)
-<br/>• Design peptide for interfacing Au crystals and subsequent sensing of SARS-CoV-2 protease 
-<br/>• Assembled peptide onto AuNP via ligand exchange method and purified conjugates via electrophoresis.
-<br/>• Monitored concentration- and protease-responsiveness of peptide-functionalized AuNPs via NTA and DLS.
-<br/>* Achievement: Jin, Z., Yeung, J., Zhou, J., Cheng, Y., _Li, Y.,_ Mantri, Y., He, T., Yim, W., Xu, M., Wu, Z. and Fajtova, P., 2022. Peptidic Sulfhydryl for Interfacing Nanocrystals and Subsequent Sensing of SARS-CoV-2 Protease. Chemistry of Materials, 34(3), pp.1259-1268.
+<br/>➡️ Design peptide for interfacing Au crystals and subsequent sensing of SARS-CoV-2 protease 
+<br/>➡️ Assembled peptide onto AuNP via ligand exchange method and purified conjugates via electrophoresis.
+<br/>➡️ Monitored concentration- and protease-responsiveness of peptide-functionalized AuNPs via NTA and DLS.
+<br/>🌟 Achievement: Jin, Z., Yeung, J., Zhou, J., Cheng, Y., <u>**Li, Y.,**<u> Mantri, Y., He, T., Yim, W., Xu, M., Wu, Z. and Fajtova, P., 2022. Peptidic Sulfhydryl for Interfacing Nanocrystals and Subsequent Sensing of SARS-CoV-2 Protease. Chemistry of Materials, 34(3), pp.1259-1268.
 
 ### prj 7. A self-immolative fluorescent probe for selective detection of SARS-CoV-2 main protease (Mentored by Dr Ming Xu)
-<br/>* Achievement: Xu, M., Zhou, J., Cheng, Y., Jin, Z., Clark, A.E., He, T., Yim, W., _Li, Y.,_ Chang, Y.C., Wu, Z. and Fajtová, P., 2022. A self-immolative fluorescent probe for selective detection of SARS-CoV-2 main protease. Analytical chemistry, 94(34), pp.11728-11733.
+<br/>🌟 Achievement: Xu, M., Zhou, J., Cheng, Y., Jin, Z., Clark, A.E., He, T., Yim, W., <u>**Li, Y.,**<u> Chang, Y.C., Wu, Z. and Fajtová, P., 2022. A self-immolative fluorescent probe for selective detection of SARS-CoV-2 main protease. Analytical chemistry, 94(34), pp.11728-11733.
