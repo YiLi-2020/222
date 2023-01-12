@@ -66,7 +66,7 @@
                 {{ if or (eq (substr .tag 0 1) "*") (eq (substr .tag 0 1) ".") }}
                   {{ $data_filter = .tag }}
                 {{ end }}
-                <a href="#" data-filter="{{ $data_filter | safeHTMLAttr }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}" style="float: left; position: relative; left: 40%; clear: both;">{{ .name }}</a>
+                <a href="#" data-filter="{{ $data_filter | safeHTMLAttr }}" class="btn btn-primary btn-lg{{ if eq $idx $filter_default }} active{{ end }}" style="float: left; position: relative; left: 50%; clear: both;">{{ .name }}</a>
               {{ end }}
             </div>
           </div>
