@@ -63,6 +63,8 @@ slides: example
 ---
 ### We focus on improving bioperformance of nanomaterials, including photoacustic& photothermal effect, targeting ability, tumer penertration, expression level of ligand, etc. 
 
+<br/>In this part of work, I was mentored by [Dr Yong Cheng](https://sites.google.com/a/eng.ucsd.edu/jokerst-lab/members/curren), formar postdoctoral researcher in Jokerst Lab @UCSD, who is now an assistant professor in China.
+
 <br/> Related projects are as following
 
 ### prj 9. Protease-Responsive Peptide-Conjugated Mitochondrial-Targeting AIEgens for Selective Imaging and Inhibition of SARS-CoV-2-Infected Cells  (Mentored by [Dr Yong Cheng](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ))
