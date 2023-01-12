@@ -28,7 +28,7 @@ title = "Foci"
   
   [[content.filter_button]]
     name = "Summary"
-    tag = "*"
+    tag = "Summary"
   
   [[content.filter_button]]
     name = "Nanomaterial"
