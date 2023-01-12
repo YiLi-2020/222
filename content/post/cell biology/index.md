@@ -1,5 +1,5 @@
 ---
-title: "Material Bioperformance study"
+title: "Bioperformance study"
 authors:
 - Jokerst Lab @ UC San Diego
 - Oct.2021-Aug.2022
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: 🦠 Confocal microscope img observing intracellular photothermal transduction in A549 cells. <br/>🧪 Exp. ran by Yi, mentored by Dr Yong Cheng
+abstract: 🦠 Confocal microscope img observing intracellular photothermal transduction. <br/>🧪 Exp. ran by Yi, mentored by Dr Yong Cheng
 
 # Summary. An optional shortened abstract.
-summary: 🦠 Confocal microscope img observing intracellular photothermal transduction in A549 cells. <br/>🧪 Exp. ran by Yi, mentored by Dr Yong Cheng
+summary: 🦠 Confocal microscope img observing intracellular photothermal transduction. <br/>🧪 Exp. ran by Yi, mentored by Dr Yong Cheng
 
 tags:
 - Summary
