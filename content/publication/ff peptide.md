@@ -32,7 +32,7 @@ summary: Aromatic interactions are commonly involved in the assembly of naturall
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 #name: "Cite"
