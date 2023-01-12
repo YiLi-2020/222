@@ -82,6 +82,3 @@ I am a graduate student at [Northwestern University] (https://www.mccormick.nort
 Before joining Northwestern, I enjoyed sunny days at [UC San Diego] ([https://www.mccormick.northwestern.edu/biomedical/](https://ne.ucsd.edu/)), where I focus on [phenolic-mediated assemblies] (#Highlights), [FRET-based nanosensors] (#Highlights), and [functional polypeptide structures] (#Highlights), under the supervision of [Prof. Jesse Jokerst] (https://jjokerst.eng.ucsd.edu/home). We use these materials to improve photoacoustic imaging contrast, photothermal transduction efficacy, tumor penetration and drug delivery.
 
 In my spare time, I enjoy building [LEGOs 🤖](#slider), practicing [kendo 🥷](#slider), and playing [piano 🎹](#slider). 
-
-
-#:ocean: :art: :musical_score: :surfer: :movie_camera: ⛩️ :tennis: :basketball: ⛷️ 🎮 :ghost: 🏊 :ocean:
