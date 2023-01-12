@@ -83,4 +83,4 @@ Before joining Northwestern, I enjoyed sunny days at [UC San Diego] ([https://ww
 
 In my spare time, I enjoy building [LEGOs 🤖](#slider), practicing [kendo 🥷](#slider), and playing [piano 🎹](#slider). 
 
-:ocean: :art: :musical_score: :surfer: 🔱 🦈 ⛩️ ⚔️ 🌸:tennis: :basketball: ⛷️ 🎮 :ghost: 🏊 :ocean:
+:ocean: :art: :musical_score: :surfer: 🔱 🦈 ⛩️ ⚔️ :tennis: :basketball: ⛷️ 🎮 :ghost: 🏊 :ocean:
