@@ -61,20 +61,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### prj1 Targeted responsive Au-polydopamine nanocapsules for cancer therapy (Mentored by [Dr Jiajing Zhou](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ))
-<br/>➡️ Engineered an Au-PDA core-shell system, with tunable size, via supramolecular template-assisted assembly.
-<br/>➡️ Characterized the nanocapsules using UV-vis spectroscopy, TEM, and SEM.
-<br/>➡️ Designed and synthesized an αvβ3-targeting peptide and assembled peptide nanocapsules via Michael addition.
-<br/>🌟 Achievement: [First-author manuscript in preparation, aiming at Angewandte Chemie](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ)
+### prj 9. Protease-Responsive Peptide-Conjugated Mitochondrial-Targeting AIEgens for Selective Imaging and Inhibition of SARS-CoV-2-Infected Cells  (Mentored by [Dr Yong Cheng](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ))
+<br/>🌟 Achievement: [Cheng, Y., Clark, A.E., Zhou, J., He, T., <u>**Li, Y.**,</u> Borum, R.M., Creyer, M.N., Xu, M., Jin, Z., Zhou, J. and Yim, W., 2022. Protease-Responsive Peptide-Conjugated Mitochondrial-Targeting AIEgens for Selective Imaging and Inhibition of SARS-CoV-2-Infected Cells. ACS nano, 16(8), pp.12305-12317.](https://pubs.acs.org/doi/full/10.1021/acsnano.2c03219)
 
-### prj2 Fluorescent poly-benzene-1,4-dithiol (pBDT) microparticle (Mentored by [Dr Jiajing Zhou](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ))
-<br/>➡️ Engineered pBDT nanoparticles and microparticles with tunable morphology by using different sovents.
-<br/>➡️ Observed solvent-independent fluorescence of pBDT and collected its spectrum using CLSM.
-<br/>➡️ Explored in vitro fluorescence in macrophage.
-<br/>🌟 Achievement: [Co-first-author manuscript in preparation, aiming at Nature communication](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ)
-
-### prj3 Biodegradable calcium phosphate nanoparticles for inducing cyto-osmotic pressure changes (Mentored by [Tengyu He, Ph.D. candidate](https://scholar.google.com/citations?hl=en&user=o5QsfzwAAAAJ))
-<br/>➡️ Used polyethylenimine as a patterning agent for Ca/P nanoparticles, via a precipitation method.
-<br/>➡️Analyzed element compositions of Ca/P nanoparticles using ICP-MS and EDX.
-<br/>➡️ Studied the nanoparticles’ in vitro release profile via a dynamic flow method to reduce particle accumulation. 
-<br/>🌟 Achievement: [He, T., Bradley, D.G., Xu, M., Ko, S.T., Qi, B., <u>**Li, Y.,**</u> Cheng, Y., Jin, Z., Zhou, J., Sasi, L. and Fu, L., 2022. Bio-Inspired Degradable Polyethylenimine/Calcium Phosphate Micro-/Nano-Composites for Transient Ultrasound and Photoluminescence Imaging. Chemistry of Materials, 34(16), pp.7220-7231.](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00857)
+### prj 10. Peptide-doxorubicin complex for Sensing and Cleaving Mpro  (Mentored by [Dr Yong Cheng](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ))
+<br/>🌟 Achievement: [Co-author manuscript in preparation, aiming at Analitical Chemistry](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ)
