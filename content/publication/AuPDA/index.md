@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "Manuscript in preparation"
 publication_short: ""
 
-abstract:
+abstract:In this work, we applied **supramolecular-template-assisted stratge** to fabricate **nano yolk-shell structures**. The idea is to wrap a **plasmonic core** in a dynamic polyphenol network, and fuse a second **polyphenol shell** on it. After template degradation, polyphenol shell creates a semi-soft cavity to host the core and additional cargos, while provides an highly-active interface to incoporate targeting peptide motifs. In this design, we integrated plasmonic (metal) and photosensitive (polyphenol) materials in a signle yolk-shell structure. Novolty of this partice includes **tunable nanomechanical properties** for enhanced photoacoustic imaging, photothermal transduction, and deep-tumor penetration. 
 
 
 # Summary. An optional shortened abstract.
@@ -46,7 +46,7 @@ url_poster: ''
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -62,3 +62,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+In this work, we applied **supramolecular-template-assisted stratge** to fabricate **nano yolk-shell structures**. The idea is to wrap a **plasmonic core** in a dynamic polyphenol network, and fuse a second **polyphenol shell** on it. After template degradation, polyphenol shell creates a semi-soft cavity to host the core and additional cargos, while provides an highly-active interface to incoporate targeting peptide motifs. In this design, we integrated plasmonic (metal) and photosensitive (polyphenol) materials in a signle yolk-shell structure. Novolty of this partice includes **tunable nanomechanical properties** for enhanced photoacoustic imaging, photothermal transduction, and deep-tumor penetration. 
