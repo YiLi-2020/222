@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 49  # Order that this section will appear.
 
 title = "Foci"
-subtitle = "I focus on the intersection of pharmaceutical science and nanotechnology to build novel medical devices that can improve therapeutic efficiency and treatment experience."
+#subtitle = "I focus on the intersection of pharmaceutical science and nanotechnology to build novel medical devices that can improve therapeutic efficiency and treatment experience."
 
 # CV location
 #cv_pdf = "experience/"
