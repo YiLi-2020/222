@@ -32,11 +32,11 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 
-url_code: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
+url_code: ''
 url_dataset: ''
-url_poster: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
+url_poster: ''
 url_project: 
-url_slides: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
+url_slides: ''
 url_source: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
 url_video: ''
 
@@ -45,7 +45,7 @@ url_video: ''
 image:
   #caption: 'Image credit: [**Unsplash**](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
