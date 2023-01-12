@@ -45,7 +45,7 @@ url_video: ''
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -61,17 +61,20 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### prj1 Targeted responsive Au-polydopamine nanocapsules for cancer therapy
-<br/>• Engineered an Au-PDA core-shell system, with tunable size, via supramolecular template-assisted assembly.
-<br/>• Characterized the nanocapsules using UV-vis spectroscopy, TEM, and SEM.
-<br/>• Designed and synthesized an αvβ3-targeting peptide and assembled peptide nanocapsules via Michael addition.
+### prj1 Targeted responsive Au-polydopamine nanocapsules for cancer therapy (Mentored by [Dr Jiajing Zhou](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ))
+<br/>➡️ Engineered an Au-PDA core-shell system, with tunable size, via supramolecular template-assisted assembly.
+<br/>➡️ Characterized the nanocapsules using UV-vis spectroscopy, TEM, and SEM.
+<br/>➡️ Designed and synthesized an αvβ3-targeting peptide and assembled peptide nanocapsules via Michael addition.
+<br/>🌟 Achievement: [First-suthor manuscript in preparation, aiming at Angewandte Chemie](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ)
 
-### prj2 Fluorescent poly-benzene-1,4-dithiol (pBDT) microparticle
-<br/>• Engineered pBDT nanoparticles and microparticles with tunable morphology by using different sovents.
-<br/>• Observed solvent-independent fluorescence of pBDT and collected its spectrum using CLSM.
-<br/>• Explored in vitro fluorescence in macrophage.
+### prj2 Fluorescent poly-benzene-1,4-dithiol (pBDT) microparticle (Mentored by [Dr Jiajing Zhou](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ))
+<br/>➡️ Engineered pBDT nanoparticles and microparticles with tunable morphology by using different sovents.
+<br/>➡️ Observed solvent-independent fluorescence of pBDT and collected its spectrum using CLSM.
+<br/>➡️ Explored in vitro fluorescence in macrophage.
+<br/>🌟 Achievement: [Co-first-suthor manuscript in preparation, aiming at Nature communication](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ)
 
-### prj3 Biodegradable calcium phosphate nanoparticles for inducing cyto-osmotic pressure changes
-<br/>• Used polyethylenimine as a patterning agent for Ca/P nanoparticles, via a precipitation method.
-<br/>• Analyzed element compositions of Ca/P nanoparticles using ICP-MS and EDX.
-<br/>• Studied the nanoparticles’ in vitro release profile via a dynamic flow method to reduce particle accumulation. 
+### prj3 Biodegradable calcium phosphate nanoparticles for inducing cyto-osmotic pressure changes (Mentored by [Tengyu He, Ph.D. candidate](https://scholar.google.com/citations?hl=en&user=o5QsfzwAAAAJ))
+<br/>➡️ Used polyethylenimine as a patterning agent for Ca/P nanoparticles, via a precipitation method.
+<br/>➡️Analyzed element compositions of Ca/P nanoparticles using ICP-MS and EDX.
+<br/>➡️ Studied the nanoparticles’ in vitro release profile via a dynamic flow method to reduce particle accumulation. 
+<br/>🌟 Achievement: [He, T., Bradley, D.G., Xu, M., Ko, S.T., Qi, B., <u>**Li, Y.,**</u> Cheng, Y., Jin, Z., Zhou, J., Sasi, L. and Fu, L., 2022. Bio-Inspired Degradable Polyethylenimine/Calcium Phosphate Micro-/Nano-Composites for Transient Ultrasound and Photoluminescence Imaging. Chemistry of Materials, 34(16), pp.7220-7231.](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00857)
