@@ -65,4 +65,4 @@ slides: example
 <br/>🌟 Cheng, Y., Clark, A.E., Zhou, J., He, T., <u>**Li, Y.**,</u> Borum, R.M., Creyer, M.N., Xu, M., Jin, Z., Zhou, J. and Yim, W., 2022. [Protease-Responsive Peptide-Conjugated Mitochondrial-Targeting AIEgens for Selective Imaging and Inhibition of SARS-CoV-2-Infected Cells.](https://pubs.acs.org/doi/full/10.1021/acsnano.2c03219) ACS nano, 16(8), pp.12305-12317.
 
 ### prj 10. Peptide-doxorubicin complex for Sensing and Cleaving Mpro  (Mentored by [Dr Yong Cheng](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ))
-<br/>🌟 [Co-author manuscript in preparation, aiming at Analitical Chemistry](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ)
+<br/>🌟 [Co-author manuscript in preparation,](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ) aiming at ***Analitical Chemistry***.
