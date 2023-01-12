@@ -61,6 +61,10 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+### We focus on using polyphenol to integrate plasmonic materials thus to develop multifunctional biomaterials. We also use polyphenol networks to fabricate versatile structures, including nano-urchins and nanopatch. My topic is about how nanomechanical properties of such structure can influence its biomedical performance.
+
+<br/> Related projects are as following
+
 ### prj1 Targeted responsive Au-polydopamine nanocapsules for cancer therapy (Mentored by [Dr Jiajing Zhou](https://scholar.google.com/citations?hl=en&user=uncK35kAAAAJ))
 <br/>➡️ Engineered an Au-PDA core-shell system, with tunable size, via supramolecular template-assisted assembly.
 <br/>➡️ Characterized the nanocapsules using UV-vis spectroscopy, TEM, and SEM.
