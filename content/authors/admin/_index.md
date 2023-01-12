@@ -79,7 +79,7 @@ user_groups:
 
 I am a graduate student at [Northwestern University] (https://www.mccormick.northwestern.edu/biomedical/), exploring the intersection of nanotechnology and pharmaceutical science. I am actively contributing to [nanomedicine](#foci) design, and a [co-crystallization strategy](#Highlights) that I implemented are now used for co-delivering cargos that vary in hydrophobicity. Besides covalent chemistry, I engineered yolk-shell structures by [supramolecular interaction] (#foci), aiming at tuning their nanomechanical properties.
 
-Before joining Northwestern, I enjoyed sunny days at [UC San Diego] ([https://www.mccormick.northwestern.edu/biomedical/](https://ne.ucsd.edu/)), where I focus on [phenolic-mediated assemblies] (#foci), [FRET-based nanosensors] (#foci), and [functional polypeptide structures] (#foci), under the supervision of [Prof. Jesse Jokerst] (https://jjokerst.eng.ucsd.edu/home). We use these materials to improve photoacoustic imaging contrast, photothermal transduction efficacy, and tumor penetration.
+Before joining Northwestern, I enjoyed sunny days at [UC San Diego] (https://ne.ucsd.edu/), where I focus on [phenolic-mediated assemblies] (#foci), [FRET-based nanosensors] (#foci), and [functional polypeptide structures] (#foci), under the supervision of [Prof. Jesse Jokerst] (https://jjokerst.eng.ucsd.edu/home). We use these materials to improve photoacoustic imaging contrast, photothermal transduction efficacy, and tumor penetration.
 
 In my spare time, I enjoy building [LEGOs 🤖](#slider), practicing [kendo 🥷](#slider), and playing [piano 🎹](#slider). 
 
