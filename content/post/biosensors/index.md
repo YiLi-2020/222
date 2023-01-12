@@ -75,3 +75,6 @@ slides: example
 
 ### prj 7. A self-immolative fluorescent probe for selective detection of SARS-CoV-2 main protease (Mentored by [Dr Ming Xu]([https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ](https://scholar.google.com/citations?hl=en&user=LJzhoiEAAAAJ)))
 <br/>🌟 Achievement: [Xu, M., Zhou, J., Cheng, Y., Jin, Z., Clark, A.E., He, T., Yim, W., <u>**Li, Y.**,</u> Chang, Y.C., Wu, Z. and Fajtová, P., 2022. A self-immolative fluorescent probe for selective detection of SARS-CoV-2 main protease. Analytical chemistry, 94(34), pp.11728-11733.](https://pubs.acs.org/doi/full/10.1021/acs.analchem.2c02381)
+
+### prj 8. Color Library: Peptide Coacervates for Sensing Mpro Driven by Hydrophlic Interaction  (Mentored by [Dr Zhicheng Jin](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ))
+<br/>🌟 Achievement: [Co-author manuscript in preparation, aiming at Nano Letters](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ)
