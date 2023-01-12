@@ -54,23 +54,23 @@ height = "400px"
    overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
   
-   #[[item]]
-  #title = "Plus"
-  #content = "moledule dynamic simulaton & CAD"
-  #align = "center"
-
- # overlay_color = "#333"  # An HTML color value.
-  #overlay_img = "d.jpg"  # Image path relative to your `static/img/` folder.
-  #overlay_filter = 0  # Darken the image. Value in range 0-1.
-
-[[item]]
-  title = "My dream is"
-  content = "publish GREAT cover articles with my nano LEGOs"
+  [[item]]
+  title = "Plus"
+  content = "moledule dynamics simulaton/calculation & CAD modeling"
   align = "center"
 
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "d.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
+
+#[[item]]
+  #title = "My dream is"
+  #content = "publish GREAT cover articles with my nano LEGOs"
+ # align = "center"
+
  # overlay_color = "#333"  # An HTML color value.
-  overlay_img = "06.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+ # overlay_img = "06.png"  # Image path relative to your `static/img/` folder.
+ # overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
  # [[item]]
  # title = "My motivation is"
