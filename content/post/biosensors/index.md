@@ -19,9 +19,9 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract:
+abstract: AuNPs clustered due to Mpro protease, driven by the hydrophobicity difference of peptide motif. <br/>Exp. ran by Dr Zhicheng Jin and Yi.
 # Summary. An optional shortened abstract.
-summary: Peptide-AuNPs clustered due to Mpro protease, driven by the hydrophobicity difference of peptide motif. <br/>Exp. ran by Dr Zhicheng Jin and Yi.
+summary: AuNPs clustered due to Mpro protease, driven by the hydrophobicity difference of peptide motif. <br/>Exp. ran by Dr Zhicheng Jin and Yi.
 
 
 tags:
