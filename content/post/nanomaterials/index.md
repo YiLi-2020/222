@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhouu
+abstract: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou
 
 # Summary. An optional shortened abstract.
-summary:🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou 
+summary: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou
 
 tags:
 - Summary
@@ -78,3 +78,4 @@ slides: example
 <br/>➡️Analyzed element compositions of Ca/P nanoparticles using ICP-MS and EDX.
 <br/>➡️ Studied the nanoparticles’ in vitro release profile via a dynamic flow method to reduce particle accumulation. 
 <br/>🌟 He, T., Bradley, D.G., Xu, M., Ko, S.T., Qi, B., <u>**Li, Y.,**</u> Cheng, Y., Jin, Z., Zhou, J., Sasi, L. and Fu, L., 2022. [Bio-Inspired Degradable Polyethylenimine/Calcium Phosphate Micro-/Nano-Composites for Transient Ultrasound and Photoluminescence Imaging.](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00857) Chemistry of Materials, 34(16), pp.7220-7231.
+
