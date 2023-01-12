@@ -1,18 +1,20 @@
+
 {{ $ := .root }}
 {{ $page := .page }}
+{{ $columns := $page.Params.design.columns | default "2" }}
 
 <!-- Experience widget -->
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
-    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
-  </div>
-  <div class="col-12 col-lg-8">
-    {{ with $page.Content }}{{ . }}{{ end }}
+{{ if and $page.Params.primary $page.Params.other }}
+  <div class="col-12 col-lg">
+{{ else }}
+  <div class="col-12">
+{{ end }}
 
-    {{ if $page.Params.experience }}
-    {{ $exp_len := len $page.Params.experience }}
-    {{ range $idx, $key := sort $page.Params.experience ".date_start" "asc" }}
+  {{ if and $page.Params.primary }}
+    {{ $exp_len := len $page.Params.primary }}
+
+    {{/* Default to user's custom order (as requested in #1761) as Hugo doesn't support multiple sorts on params. */}}
+    {{ range $idx, $key := $page.Params.primary }}
     <div class="row experience">
       <!-- Timeline -->
       <div class="col-auto text-center flex-column d-none d-sm-flex">
@@ -30,33 +32,140 @@
       </div>
       <!-- Content -->
       <div class="col py-2">
+        {{ if eq $idx 0 }}
+          {{ with $page.Params.primary_title }}
+            <div class="section-heading mb-3 text-center">
+              <h2 class="mb-0">{{ . | markdownify | emojify }}</h2>
+            </div>
+          {{ end }}
+        {{ end }}
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title exp-title text-muted mt-0 mb-1">{{.title | markdownify | emojify}}</h4>
-            <h4 class="card-title exp-company text-muted my-0">
-              {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
-            </h4>
-            <div class="text-muted exp-meta">
-              {{ (time .date_start).Format ($page.Params.date_format | default "January 2006") }} –
-              {{ if .date_end}}
-                {{ (time .date_end).Format ($page.Params.date_format | default "January 2006") }}
-              {{else}}
-                {{ i18n "present" | default "Present" }}
-              {{end}}
-              {{with .location}}
-                <span class="middot-divider"></span>
-                <span>{{.}}</span>
-              {{end}}
+
+            {{- if .company_logo}}
+            {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) -}}
+            {{ if not $svg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/brands/%s.svg`" .company_logo }}{{end}}
+            <div class="d-flex align-content-start">
+              <div class="mr-2 mb-2">
+                {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+                <img src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.company | plainify}}" loading="lazy">
+                {{- with .company_url}}</a>{{end -}}
+              </div>
+              <div>
+            {{ end }}
+
+                <div class="section-subheading card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</div>
+                <div class="section-subheading card-title exp-company text-muted my-0">
+                  {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+                </div>
+                <div class="text-muted exp-meta">
+                  {{ (time .date_start) | time.Format ($page.Params.date_format | default "January 2006") }} –
+                  {{ if .date_end}}
+                    {{ (time .date_end) | time.Format ($page.Params.date_format | default "January 2006") }}
+                  {{else}}
+                    {{ i18n "present" | default "Present" }}
+                  {{end}}
+                  {{with .location}}
+                    <span class="middot-divider"></span>
+                    <span>{{.}}</span>
+                  {{end}}
+                </div>
+
+            {{- if .company_logo}}
+              </div>
             </div>
+            {{end}}
+
             {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
           </div>
         </div>
       </div>
     </div>
     {{end}}
-    {{end}}
+  {{end}}
   </div>
-</div>
+
+{{ if and $page.Params.primary $page.Params.other }}
+  <div class="col-12 col-lg">
+{{ end }}
+
+  {{ if and $page.Params.other }}
+    {{ $exp_len := len $page.Params.other }}
+
+    {{/* Default to user's custom order (as requested in #1761) as Hugo doesn't support multiple sorts on params. */}}
+    {{ range $idx, $key := $page.Params.other }}
+    <div class="row experience">
+      <!-- Timeline -->
+      <div class="col-auto text-center flex-column d-none d-sm-flex">
+        <div class="row h-50">
+          <div class="col {{if gt $idx 0}}border-right{{end}}">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+        <div class="m-2">
+          <span class="badge badge-pill border {{if not .date_end}}exp-fill{{end}}">&nbsp;</span>
+        </div>
+        <div class="row h-50">
+          <div class="col {{if lt $idx (sub $exp_len 1)}}border-right{{end}}">&nbsp;</div>
+          <div class="col">&nbsp;</div>
+        </div>
+      </div>
+      <!-- Content -->
+      <div class="col py-2">
+        {{ if eq $idx 0 }}
+          {{ with $page.Params.other_title }}
+            <div class="section-heading mb-3 text-center">
+              <h2 class="mb-0">{{ . | markdownify | emojify }}</h2>
+            </div>
+          {{ end }}
+        {{ end }}
+        <div class="card">
+          <div class="card-body">
+
+            {{- if .company_logo}}
+            {{- $svg_icon := resources.Get (printf "media/icons/brands/%s.svg" .company_logo) -}}
+            {{ if not $svg_icon }}{{ errorf "Brand logo not found at `assets/media/icons/brands/%s.svg`" .company_logo }}{{end}}
+            <div class="d-flex align-content-start">
+              <div class="mr-2 mb-2">
+                {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+                <img src="{{ $svg_icon.RelPermalink }}" width="56px" height="56px" alt="{{.company | plainify}}" loading="lazy">
+                {{- with .company_url}}</a>{{end -}}
+              </div>
+              <div>
+            {{ end }}
+
+                <div class="section-subheading card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</div>
+                <div class="section-subheading card-title exp-company text-muted my-0">
+                  {{- with .company_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end}}{{.company | markdownify | emojify}}{{with .company_url}}</a>{{end -}}
+                </div>
+                <div class="text-muted exp-meta">
+                  {{ (time .date_start) | time.Format ($page.Params.date_format | default "January 2006") }} –
+                  {{ if .date_end}}
+                    {{ (time .date_end) | time.Format ($page.Params.date_format | default "January 2006") }}
+                  {{else}}
+                    {{ i18n "present" | default "Present" }}
+                  {{end}}
+                  {{with .location}}
+                    <span class="middot-divider"></span>
+                    <span>{{.}}</span>
+                  {{end}}
+                </div>
+
+            {{- if .company_logo}}
+              </div>
+            </div>
+            {{end}}
+
+            {{with .description}}<div class="card-text">{{. | markdownify | emojify}}</div>{{end}}
+          </div>
+        </div>
+      </div>
+    </div>
+    {{end}}
+  {{end}}
+
+{{ if and $page.Params.primary $page.Params.other }}
+  </div>
+{{ end }}
 
 <p>
     <a class="btn btn-outline-primary btn-xs" href="https://hejlightyear.net/" style="float: left; position: relative; left: 42%; clear: both;">
