@@ -56,11 +56,11 @@ height = "400px"
   
   [[item]]
   title = "Plus"
-  content = "moledule dynamics simulaton/calculation & CAD modeling"
+  content = "molecule dynamics simulaton/calculation & CAD modeling"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
-  overlay_img = "d.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "d.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 #[[item]]
