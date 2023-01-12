@@ -46,7 +46,7 @@ height = "700px"
   
  [[item]]
    title = "Also"
-   content = "an artist with life long facination with piano"
+   content = "🎼 an artist with life long facination with piano"
    align = "right"
 
    overlay_color = "#333"  # An HTML color value.
