@@ -1,9 +1,9 @@
 ---
-title: "?Phenolic-mediated assemblies"
+title: ""
 authors:
 - Jokerst Lab @ UC San Diego
 - Oct.2021-Aug.2022
-date: "2020-12-01T00:00:00Z"
+date: "2019-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou
+abstract:
 
 # Summary. An optional shortened abstract.
-summary: 🔬 Scanning electron microscope img of poly-benzene-1,4-dithiol (pBDT) nanourchins. <br/>🧪 Exp. ran by Yi, mentored by Dr Jiajing Zhou
+summary: 
 
 tags:
 - Summary
