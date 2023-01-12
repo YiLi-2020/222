@@ -21,7 +21,8 @@ publication_short: ""
 
 abstract:
 # Summary. An optional shortened abstract.
-summary: Jin, Z.‡, Li, Y.‡, Li, K.‡, et al. "Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing." Angewandte Chemie (2022).
+summary: Peptide-AuNPs clustered due to Mpro protease, driven by the hydrophobicity difference of peptide motif. <br/>Exp. ran by Dr Zhicheng Jin and Yi.
+
 
 tags:
 - Summary
@@ -60,4 +61,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### Aromatic interactions are commonly involved in the assembly of naturally occurring building blocks, and these interactions can be replicated in an artificial setting to produce functional materials. Here we describe a colorimetric biosensor using co-assembly experiments with plasmonic gold and surfactant-like peptides (SLPs) spanning a wide range of aromatic residues, polar stretches, and interfacial affinities. The SLPs programmed in DDD−(ZZ)x−FFPC self-assemble into higher-order structures in response to a protease and subsequently modulate the colloidal dispersity of gold leading to a colorimetric readout. Results show the strong aggregation propensity of the FFPC tail without polar DDD head. The SLPs were specific to the target protease, i.e., Mpro, a biomarker for SARS-CoV-2. This system is a simple and visual tool that senses Mpro in phosphate buffer, exhaled breath condensate, and saliva with detection limits of 15.7, 20.8, and 26.1 nM, respectively. These results may have value in designing other protease testing methods.
+### prj1 A peptidic sulfhydryl for interfacing nanocrystals to sense SARS-CoV-2 protease
+<br/>• Assembled peptide onto AuNP via ligand substitution and purified conjugates via electrophoresis.
+<br/>• Monitored concentration- and protease-responsiveness of peptide-functionalized AuNPs via DLS.
