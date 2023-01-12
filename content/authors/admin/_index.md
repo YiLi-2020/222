@@ -14,7 +14,7 @@ role: Ph.D. student
 
 # Organizations/Affiliations
 organizations:
-- name:  Biomedical Engineering  Northwestern University | Evanston, IL
+- name: -Biomedical Engineering- Northwestern University | Evanston, IL
   url: "https://www.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
