@@ -1,5 +1,5 @@
 ---
-title: "3 Biomedical Applicatons"
+title: "3) Biomedical Applicatons"
 authors:
 - Jokerst Lab @ UC San Diego
 - Oct.2021-Aug.2022
