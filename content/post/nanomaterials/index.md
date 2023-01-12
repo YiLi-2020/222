@@ -1,5 +1,5 @@
 ---
-title: "1) Phenolic-mediated assemblies"
+title: "1) Phenolic-mediated assembly"
 authors:
 - Jokerst Lab @ UC San Diego
 - Oct.2021-Aug.2022
