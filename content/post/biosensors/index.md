@@ -62,7 +62,7 @@ projects: []
 slides: example
 ---
 ### prj 4. Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing (Mentored by Dr Zhicheng Jin)
-<br/>🌟 Achievement: Jin, Z.‡, ***Li, Y.‡***, Li, K.‡, Zhou, J., Yeung, J., Ling, C., Yim, W., He, T., Cheng, Y., Xu, M. and Creyer, M.N., 2022. Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing. Angewandte Chemie.
+<br/>🌟 Achievement: Jin, Z.‡, <u>***Li, Y.‡***</u>, Li, K.‡, Zhou, J., Yeung, J., Ling, C., Yim, W., He, T., Cheng, Y., Xu, M. and Creyer, M.N., 2022. Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing. Angewandte Chemie.
 
 ### prj 5. Spacer Matters: All-Peptide-Based Ligand for Promoting Interfacial Proteolysis and Plasmonic Coupling (Mentored by Dr Zhicheng Jin)
 <br/>🌟 Achievement: Jin, Z., Ling, C., <u>**Li, Y.,**<u> Zhou, J., Li, K., Yim, W., Yeung, J., Chang, Y.C., He, T., Cheng, Y. and Fajtová, P., 2022. Spacer Matters: All-Peptide-Based Ligand for Promoting Interfacial Proteolysis and Plasmonic Coupling. Nano Letters, 22(22), pp.8932-8940.
