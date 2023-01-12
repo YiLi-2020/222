@@ -1,13 +1,13 @@
 ---
-title: "Design drug-mediated delivery of miRNA"
+title: "FRET-based nanosensors"
 authors:
-- China Pharmaceutical University
-- Oct.2017-Apr.2018
-date: "2019-05-15T00:00:00Z"
-doi: ""
+- Jokerst Lab @ UC San Diego
+- Dec.2021-Aug.2022
+date: "2021-12-01T00:00:00Z"
+doi: "https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202214394"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publication_types: ["2"]
 publication: ""
 publication_short: ""
 
-abstract: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance. 
+abstract: Aromatic interactions are commonly involved in the assembly of naturally occurring building blocks, and these interactions can be replicated in an artificial setting to produce functional materials. Here we describe a colorimetric biosensor using co-assembly experiments with plasmonic gold and surfactant-like peptides (SLPs) spanning a wide range of aromatic residues, polar stretches, and interfacial affinities. The SLPs programmed in DDD−(ZZ)x−FFPC self-assemble into higher-order structures in response to a protease and subsequently modulate the colloidal dispersity of gold leading to a colorimetric readout. Results show the strong aggregation propensity of the FFPC tail without polar DDD head. The SLPs were specific to the target protease, i.e., Mpro, a biomarker for SARS-CoV-2. This system is a simple and visual tool that senses Mpro in phosphate buffer, exhaled breath condensate, and saliva with detection limits of 15.7, 20.8, and 26.1 nM, respectively. These results may have value in designing other protease testing methods. 
 
 # Summary. An optional shortened abstract.
-summary: Used famous traditional Chinese medicine Baicalein to reduce pulmonary vascular resistance.
+summary: Jin, Z.‡, Li, Y.‡, Li, K.‡, et al. "Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing." Angewandte Chemie (2022).
 
 tags:
 - Summary
@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: 
 url_slides: ''
-url_source: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
+url_source: '[https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202214394)'
 url_video: ''
 
 # Featured image
@@ -61,6 +61,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-### Working on this multidisciplinary project gave me an insight into gene delivery and strengthened my problem-solving abilities for further research work. More importantly, I learned to apply my knowledge and previous experience to empirical analysis and real-world problems.<br/>
-In my sophomore year, I started to focus on diseases besides cancer, like **pulmonary hypertension (PAH)**. We set a team of five undergraduates from different majors and carried out a project for novel chemotherapy for PAH. <br/>
-As the team leader, I contributed to addressing several critical issues, including **applying for funding from companies**, **contacting faculty members for guidance**, and **designing technical routes**. Besides, to make progress efficiently, I utilized what I learned in my last project on **caveolae-mediated endocytosis** and applied my knowledge in **traditional Chinese medicine**. Integrating this knowledge, we constructed a gene-drug co-delivery platform and confirmed its efficacy in animals. 
+### Aromatic interactions are commonly involved in the assembly of naturally occurring building blocks, and these interactions can be replicated in an artificial setting to produce functional materials. Here we describe a colorimetric biosensor using co-assembly experiments with plasmonic gold and surfactant-like peptides (SLPs) spanning a wide range of aromatic residues, polar stretches, and interfacial affinities. The SLPs programmed in DDD−(ZZ)x−FFPC self-assemble into higher-order structures in response to a protease and subsequently modulate the colloidal dispersity of gold leading to a colorimetric readout. Results show the strong aggregation propensity of the FFPC tail without polar DDD head. The SLPs were specific to the target protease, i.e., Mpro, a biomarker for SARS-CoV-2. This system is a simple and visual tool that senses Mpro in phosphate buffer, exhaled breath condensate, and saliva with detection limits of 15.7, 20.8, and 26.1 nM, respectively. These results may have value in designing other protease testing methods.
