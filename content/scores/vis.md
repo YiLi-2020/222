@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Summer program courses"
-subtitle = "University of StrathClyde"
+subtitle = "@University of StrathClyde"
 
 
 # Showcase personal skills or business features.
