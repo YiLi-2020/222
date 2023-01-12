@@ -27,20 +27,20 @@ subtitle = "I focus on the intersection of pharmaceutical science and nanotechno
   filter_default = 0
   
   [[content.filter_button]]
-    name = "All"
+    name = "Summary"
     tag = "*"
   
   [[content.filter_button]]
-    name = "Drug Delivery"
-    tag = "Drug Delivery"
+    name = "Nanomaterial"
+    tag = "Nanomaterial"
   
   [[content.filter_button]]
-    name = "Tumor Pharmacology"
-    tag = "Tumor Pharmacology"
+    name = "Biosensor"
+    tag = "Biosensor"
     
    [[content.filter_button]]
-    name = "Gene Engineering"
-    tag = "Gene Engineering"
+    name = "Cell biology"
+    tag = "Cell biology"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
