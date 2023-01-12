@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company = "Research associate · Advisor: [Dr.Wan-liang Lv](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/js_20180116101307960843/192244.htm) & [Dr.Ying Xie](http://dp.sps.bjmu.edu.cn/szdw_20180116101307960843/fjs_20180116101307960843/192726.htm)"
   company_url = ""
   location = "Peking University"
-  date_start = "2019-07-01"
+  date_start = "2018-07-01"
   date_end = "2019-08-31"
   description = ""
 
