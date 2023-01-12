@@ -32,10 +32,10 @@ featured: false
 # links:
 #name: "Cite"
 #url: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1"
-url_pdf: https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1.full.pdf
-url_dataset: 'https://www.medrxiv.org/node/146376.external-links.html'
-url_poster: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
-url_project: 'https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1'
+url_pdf: 
+url_dataset: ''
+url_poster: ''
+url_project: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
