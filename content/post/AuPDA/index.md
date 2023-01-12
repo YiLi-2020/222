@@ -79,3 +79,4 @@ slides: example
 <br/>➡️ Studied the nanoparticles’ in vitro release profile via a dynamic flow method to reduce particle accumulation. 
 <br/>🌟 He, T., Bradley, D.G., Xu, M., Ko, S.T., Qi, B., <u>**Li, Y.,**</u> Cheng, Y., Jin, Z., Zhou, J., Sasi, L. and Fu, L., 2022. [Bio-Inspired Degradable Polyethylenimine/Calcium Phosphate Micro-/Nano-Composites for Transient Ultrasound and Photoluminescence Imaging.](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00857) Chemistry of Materials, 34(16), pp.7220-7231.
 
+
