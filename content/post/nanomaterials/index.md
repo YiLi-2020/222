@@ -3,7 +3,7 @@ title: "Phenolic-mediated assemblies"
 authors:
 - Jokerst Lab @ UC San Diego
 - Oct.2021-Aug.2022
-date: "2021-10-01T00:00:00Z"
+date: "2021-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
