@@ -63,7 +63,7 @@ slides: example
 ---
 ### We focus on developing FRET-based nanosensors for probing MMP enzymes by designing functional polypeptides and peptide-AuNP conjugates.
 
-### Related projects are as following
+<br/> Related projects are as following
 
 ### prj 4. Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing (Mentored by [Dr Zhicheng Jin](https://scholar.google.com/citations?hl=en&user=PC6gejgAAAAJ))
 <br/>🌟 Jin, Z.‡, <u>**Li, Y.‡**</u>, Li, K.‡, Zhou, J., Yeung, J., Ling, C., Yim, W., He, T., Cheng, Y., Xu, M. and Creyer, M.N., 2022. [Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing.](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202214394) Angewandte Chemie.
