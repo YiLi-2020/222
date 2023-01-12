@@ -5,13 +5,7 @@ authors:
 - Jiajing Zhou‡
 - Zhicheng Jin
 - Yong Cheng
-- Wonjun Yim
-- Lei Fu
-- Baiyan Qi
-- Ming Xu
-- Yu-ci Chang
-- Zhuohong Wu
-- Tengyu He
+- ...
 - Jesse Jokerst*
 date: "2023-03-25T00:00:00Z"
 doi: ""
@@ -33,7 +27,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: In this work, we applied supramolecular-template-assisted stratge to fabricate nano yolk-shell structures. This nanotechnology is to wrap a plasmonic core in a dynamic polyphenol network, and fuse a second polyphenol shell on it. After template degradation, polyphenol shell creates a semi-soft cavity to host core & cargos and provides an highly-active interface to integrate targeting peptide motifs. Novolty of this work include tunable nanomechanical properties for enhanced photoacoustic imaging, photothermal transduction, and deep-tumor penetration. 
+summary: In this work, we applied supramolecular-template-assisted stratge to fabricate nano yolk-shell structures. This nanotechnology is to wrap a plasmonic core in a dynamic polyphenol network, and fuse a second polyphenol shell on it. After template degradation, polyphenol shell creates a semi-soft cavity to host core & cargos and provides an highly-active interface to integrate targeting peptide motifs. Novolty of this partice includes tunable nanomechanical properties for enhanced photoacoustic imaging, photothermal transduction, and deep-tumor penetration. 
 
 tags:
 - Source Themes
