@@ -1,5 +1,5 @@
 ---
-title: "FRET-based nanosensors"
+title: "FRET-based biosensors"
 authors:
 - Jokerst Lab @ UC San Diego
 - Dec.2021-Aug.2022
