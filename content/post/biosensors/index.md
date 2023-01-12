@@ -32,18 +32,18 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 
-url_code: ''
+url_code: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
 url_project: 
-url_slides: ''
-url_source: ''
+url_slides: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
+url_source: 'https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #caption: 'Image credit: [**Unsplash**](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871)'
   focal_point: ""
   preview_only: false
 
