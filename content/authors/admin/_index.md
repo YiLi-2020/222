@@ -79,6 +79,8 @@ user_groups:
 
 I am a graduate student at [Northwestern University] (https://www.mccormick.northwestern.edu/biomedical/), exploring the intersection of nanotechnology and pharmaceutical science. I am actively contributing to [nanomedicine](#Research topics) design, and methods that I implemented are now used for [co-delivering](#Highlights) cargos that vary in hydrophobicity. 
 
+Before joining Northwestern, I enjoyed sunny days at [UC San Diego 🔱] ([https://www.mccormick.northwestern.edu/biomedical/](https://ne.ucsd.edu/)), where I focus on [phenolic-mediated assemblies] (#Highlights), [FRET-based nanosensors] (#Highlights), and [functional polypeptide structures] (#Highlights), under the supervision of [Prof. Jesse Jokerst] (https://jjokerst.eng.ucsd.edu/home). These materials are mainly used in photoacoustic imaging, photothermal transduction and drug delivery.
+
 In my spare time, I enjoy building [LEGOs 🤖](#slider), practicing [kendo 🥷](#slider), and playing [piano 🎹](#slider). 
 
 
