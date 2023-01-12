@@ -42,7 +42,7 @@ dv_pdf = "https://scholar.google.com/citations?hl=en&user=vWavkyIAAAAJ"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
