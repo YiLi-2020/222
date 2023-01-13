@@ -70,7 +70,7 @@ height = "700px"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "16.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.3 # Darken the image. Value in range 0-1.
 
   [[item]]
   title = "Worked with"
