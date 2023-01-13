@@ -37,7 +37,7 @@ height = "400px"
   
 [[item]]
   title = "And"
-  content = "material characterization, especially tomography & nanomechanical properties mapping"
+  content = "material characterization<br/>especially tomography & nanomechanical properties mapping"
   align = "right"
 
   #overlay_color = "#555"  # An HTML color value.
