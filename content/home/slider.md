@@ -53,15 +53,6 @@ height = "700px"
    overlay_img = "015.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.1  # Darken the image. Value in range 0-1.
   
-  
-   #[[item]]
-  #title = "My favorite thing"
-  #content = "is to explore the world with my shark"
-  #align = "center"
-
- # overlay_color = "#333"  # An HTML color value.
-  #overlay_img = "05.png"  # Image path relative to your `static/img/` folder.
-  #overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "My dream is"
@@ -71,15 +62,24 @@ height = "700px"
  # overlay_color = "#333"  # An HTML color value.
   overlay_img = "06.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  
+[[item]]
+  title = "Before joining NU"
+  content = "I enjoyed sunny days at UC San Diego 🔱"
+  align = "center"
 
- # [[item]]
- # title = "My motivation is"
- # content = "Exceed my surgeon parents"
- # align = "center"
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "16.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
- # overlay_color = "#333"  # An HTML color value.
- # overlay_img = "08.png"  # Image path relative to your `static/img/` folder.
-  #overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  [[item]]
+  title = "Worked with"
+  content = "a MGNIFICENT group at Jokerst Bioimaging Lab"
+  align = "right"
+
+  overlay_color = "#333"  # An HTML color value.
+  overlay_img = "17.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
 #[[item]]
  # title = "!Bonus!"
