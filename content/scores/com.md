@@ -111,7 +111,7 @@ dv_pdf = "./files/16401702.pdf"
 [[feature]]
   icon = "bong"
   icon_pack = "fas"
-  name = "Medicinal chemistry"
+  name = "Medicine chemistry"
   description = "course+lab training, 1 sem"    
   
 [[feature]]
