@@ -74,7 +74,7 @@ height = "700px"
 
   [[item]]
   title = "Worked with"
-  content = "a MGNIFICENT group at Jokerst Bioimaging Lab"
+  content = "a MGNIFICENT group @Jokerst Bioimaging Lab,<br/>Nanoengineering Dept."
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
