@@ -4,7 +4,7 @@ authors:
 - Jokerst Lab @ UC San Diego
 - Dec.2021-Aug.2022
 date: "2021-10-01T00:00:00Z"
-doi: "https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202214394"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -37,7 +37,7 @@ url_dataset: ''
 url_poster: ''
 url_project: 
 url_slides: ''
-url_source: '[https://pubs.acs.org/doi/full/10.1021/acs.chemmater.1c03871](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202214394)'
+url_source: ''
 url_video: ''
 
 # Featured image
