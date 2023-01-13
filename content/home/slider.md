@@ -65,12 +65,12 @@ height = "700px"
   
 [[item]]
   title = "Before joining NU"
-  content = "I enjoyed sunny days at UC San Diego 🔱"
+  content = "I enjoyed sunny days at @UC San Diego 🔱"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "16.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.3 # Darken the image. Value in range 0-1.
+  overlay_filter = 0.4 # Darken the image. Value in range 0-1.
 
   [[item]]
   title = "Worked with"
