@@ -46,7 +46,7 @@ height = "400px"
   
  [[item]]
    title = "Also"
-   content = "extensive hand-on experiences with cell bioiogy assays"
+   content = "extensive hand-on experiences in cell bioiogy assays"
    align = "left"
 
    overlay_color = "#333"  # An HTML color value.
