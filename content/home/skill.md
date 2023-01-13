@@ -61,7 +61,7 @@ height = "400px"
 
   overlay_color = "#333"  # An HTML color value.
   overlay_img = "d.png"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.2  # Darken the image. Value in range 0-1.
 
 #[[item]]
   #title = "My dream is"
