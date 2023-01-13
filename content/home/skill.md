@@ -37,7 +37,7 @@ height = "400px"
   
 [[item]]
   title = "And"
-  content = "material characterization<br/>especially tomography & nanomechanical properties mapping"
+  content = "material characterization<br/>tomography,flurescence, and nanomechanical properties mapping"
   align = "right"
 
   #overlay_color = "#555"  # An HTML color value.
@@ -47,7 +47,7 @@ height = "400px"
  [[item]]
    title = "Also"
    content = "extensive hand-on experiences with cell bioiogy assays"
-   align = "right"
+   align = "left"
 
    overlay_color = "#333"  # An HTML color value.
    overlay_img = "c.png"  # Image path relative to your `static/img/` folder.
