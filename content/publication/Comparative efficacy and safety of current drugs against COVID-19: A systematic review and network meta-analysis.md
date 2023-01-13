@@ -31,7 +31,7 @@ featured: false
 
 # links:
 #name: "Cite"
-#url: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1"
+url: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1"
 url_pdf: 
 url_dataset: ''
 url_poster: ''
