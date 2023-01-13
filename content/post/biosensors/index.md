@@ -63,7 +63,7 @@ slides: example
 ---
 ### We focus on developing FRET-based nanosensors for probing MMP enzymes by designing functional polypeptides and peptide-AuNP conjugates.
 
-<br/>In this part of work, I was mentored by [Dr Zhicheng Jin](https://scholar.google.com/citations?user=PC6gejgAAAAJ&hl=en) a postdoctoral researcher in Jokerst Lab @Jokerst Lab and, his Ph.D. advisor, Prof. [Hedi Mattoussi](https://scholar.google.com/citations?user=1E-vbl4AAAAJ&hl=en) @ Florida State University. Many thanks to [Dr Ming XU](https://scholar.google.com/citations?hl=en&user=LJzhoiEAAAAJ), who is now doing amazing work in another lab @UCSD.
+<br/>In this part of work, I was mentored by [Dr Zhicheng Jin](https://scholar.google.com/citations?user=PC6gejgAAAAJ&hl=en) a postdoctoral researcher in Jokerst Lab @Jokerst Lab, and his Ph.D. advisor, Prof. [Hedi Mattoussi](https://scholar.google.com/citations?user=1E-vbl4AAAAJ&hl=en) @Florida State University. Many thanks to [Dr Ming XU](https://scholar.google.com/citations?hl=en&user=LJzhoiEAAAAJ), who is now doing amazing work in another lab @UCSD.
 
 <br/> Related projects are as following
 
