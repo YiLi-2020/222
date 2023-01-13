@@ -1,15 +1,10 @@
 ---
-title: "Peptide Amphiphile Mediated Co‐assembly for Nanoplasmonic Sensing"
+title: "Comparative efficacy and safety of current drugs against COVID-19: A systematic review and network meta-analysis"
 authors:
-- Zhicheng Jin‡
-- <u>**Yi Li‡**</u> 
-- Ke Li‡
-- Jiajing Zhou
-- Justin Yeung
-- ...
-- Jesse Jokerst*
-date: "2022-11-21T00:00:00Z"
-doi: "https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202214394"
+- <u>**Yi Li**</u> 
+- Wei He*
+date: "2020-11-16T00:00:00Z"
+doi: "https://www.medrxiv.org/content/10.1101/2020.11.16.20232884v1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-04-02T00:00:00Z"
@@ -21,14 +16,14 @@ publishDate: "2021-04-02T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Angewandte Chemie"
+publication: "medRXiv"
 publication_short: ""
 
 abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: Aromatic interactions are commonly involved in the assembly of naturally occurring building blocks, and these interactions can be replicated in an artificial setting to produce functional materials. Here we describe a colorimetric biosensor using co-assembly experiments with plasmonic gold and surfactant-like peptides (SLPs) spanning a wide range of aromatic residues, polar stretches, and interfacial affinities.
+summary: The rapid spread of **coronavirus disease (COVID-19)** has greatly disrupted the livelihood of many people around the world. To date, more than 35.16 million COVID-19 cases with 1.037million total deaths have been reported worldwide. Compared with China, where the disease was first reported, cases of COVID-19, the number of confirmed cases for the disease in the rest of the world have been incredibly high. Even though several dugs have been suggested to be used against the disease, the said interventions should be backed by empirical clinical evidence. Therefore, this paper provides a systematic review and a meta-analysis of **efficacy and safety** of different COVID-19 drugs.
 
 tags:
 - Source Themes
@@ -63,5 +58,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-Aromatic interactions are commonly involved in the assembly of naturally occurring building blocks, and these interactions can be replicated in an artificial setting to produce functional materials. Here we describe a colorimetric biosensor using co-assembly experiments with plasmonic gold and surfactant-like peptides (SLPs) spanning a wide range of aromatic residues, polar stretches, and interfacial affinities. The SLPs programmed in DDD−(ZZ)x−FFPC self-assemble into higher-order structures in response to a protease and subsequently modulate the colloidal dispersity of gold leading to a colorimetric readout. Results show the strong aggregation propensity of the FFPC tail without polar DDD head. The SLPs were specific to the target protease, i.e., Mpro, a biomarker for SARS-CoV-2. This system is a simple and visual tool that senses Mpro in phosphate buffer, exhaled breath condensate, and saliva with detection limits of 15.7, 20.8, and 26.1 nM, respectively. These results may have value in designing other protease testing methods.
+The rapid spread of **coronavirus disease (COVID-19)** has greatly disrupted the livelihood of many people around the world. To date, more than 35.16 million COVID-19 cases with 1.037million total deaths have been reported worldwide. Compared with China, where the disease was first reported, cases of COVID-19, the number of confirmed cases for the disease in the rest of the world have been incredibly high. Even though several dugs have been suggested to be used against the disease, the said interventions should be backed by empirical clinical evidence. Therefore, this paper provides a systematic review and a meta-analysis of **efficacy and safety** of different COVID-19 drugs.
 
