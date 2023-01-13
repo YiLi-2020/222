@@ -56,7 +56,7 @@ height = "400px"
   
   [[item]]
   title = "Plus"
-  content = "molecule dynamics simulaton/calculation & CAD modeling"
+  content = "molecular dynamics simulation & CAD modeling"
   align = "center"
 
   overlay_color = "#333"  # An HTML color value.
