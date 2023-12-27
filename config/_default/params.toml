@@ -96,7 +96,7 @@ address = {street = "303 E Superior St.", city = "Chicago", region = "IL", postc
 
 #Geographic coordinates
 #To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.89562007248275", longitude = "--87.61962192223761"}
+coordinates = {latitude = "41.89562007", longitude = "--87.61962192"}
 
 # Directions for visitors to locate you.
 #directions = "Simpson Querrey Institute @ Robert Lurie Research Center"
