@@ -92,14 +92,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2170 Campus Dr.", city = "Evanston", region = "IL", postcode = "60208", country = "U.S.", country_code = "US"}
+address = {street = "303 E Superior St.", city = "Chicago", region = "IL", postcode = "60611", country = "U.S.", country_code = "US"}
 
 #Geographic coordinates
 #To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.0563707", longitude = "-87.676272"}
+coordinates = {latitude = "41.89562007248275", longitude = "--87.61962192223761"}
 
 # Directions for visitors to locate you.
-#directions = "Silverman Hall, Biomedical Engineering Dept."
+#directions = "Simpson Querrey Institute @ Robert Lurie Research Center"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
