@@ -14,7 +14,7 @@ subtitle = ""
 cv_pdf = "manuscripts/"
 
 # DV location
-dv_pdf = "https://scholar.google.com/citations?hl=en&user=vWavkyIAAAAJ"
+dv_pdf = "https://scholar.google.com/citations?user=pXcKhwIAAAAJ&hl=en"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
